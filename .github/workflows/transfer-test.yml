@@ -1,0 +1,23 @@
+name: Test transfer from distribution server
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  transfer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Measure a 16 MiB range
+        run: |
+          python3 - <<'PY'
+          import urllib.request, time
+          req = urllib.request.Request('http://146.158.107.111:8088/II-%2B.rar', headers={'Range': 'bytes=0-16777215'})
+          start=time.monotonic()
+          with urllib.request.urlopen(req, timeout=60) as response:
+              if response.status != 206: raise RuntimeError('Expected partial response')
+              data=response.read(16777217)
+          elapsed=time.monotonic()-start
+          print({'bytes':len(data), 'seconds':round(elapsed,2), 'MBps':round(len(data)/elapsed/1e6,3)})
+          if len(data)!=16777216: raise RuntimeError('Incomplete range')
+          PY
