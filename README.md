@@ -2,7 +2,7 @@
 
 [Скачать установщик II-Setup.exe](https://github.com/dydosux/II-downloads/releases/latest/download/II-Setup.exe)
 
-Первая сборка загружается. Ссылка на установщик заработает после появления опубликованного выпуска в [Releases](https://github.com/dydosux/II-downloads/releases).
+Готовые сборки находятся в [Releases](https://github.com/dydosux/II-downloads/releases). Ссылка выше скачивает установщик последнего опубликованного выпуска.
 
 ## Установка
 
@@ -27,3 +27,4 @@ Windows 10/11 x64, .NET Framework 4.8 и Microsoft Visual C++ Runtime. Для CU
 Подробнее: [переносимое приложение](docs/PORTABLE.md), [материалы и обучение](docs/LEARNING.md), [устройство установщика](docs/INSTALLER.md).
 
 Модель Stable Diffusion 1.5 распространяется на условиях [CreativeML Open RAIL-M](docs/SD15-LICENSE.txt). Лицензии библиотек включены в сборку. Исходный код установщика находится в `scripts/Installer.cs`.
+
