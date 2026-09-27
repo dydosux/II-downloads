@@ -26,13 +26,13 @@ def main():
             actual=remote.get(item['name'],{})
             if actual.get('size')!=item['size'] or actual.get('digest')!='sha256:'+item['sha256'] or actual.get('state')!='uploaded':
                 raise RuntimeError('Missing or corrupt final asset: '+item['name'])
-        gh('release','edit','v2026.09.27','--repo',repo,'--draft=false','--latest')
-        print('RELEASE PUBLISHED')
-        # Staging blocks are no longer needed once their exact originals are public.
+        # Remove staging files while still a draft, so users see only final assets.
         for part in manifest['parts']:
             for block in part['blocks']:
                 if block['name'] in remote:
                     gh('api','--method','DELETE',f"repos/{repo}/releases/assets/{remote[block['name']]['id']}")
+        gh('release','edit','v2026.09.27','--repo',repo,'--draft=false','--latest')
+        print('RELEASE PUBLISHED')
         return
     part=manifest['parts'][int(sys.argv[1])-1]
     existing=remote.get(part['name'],{})
