@@ -56,3 +56,34 @@ Python устанавливать отдельно не нужно. Требов
 GitHub Release. До проверки размеров и серверных SHA-256 сохраняйте релиз черновиком.
 Прямая ссылка после публикации:
 https://github.com/dydosux/II-downloads/releases/download/v2026.09.27/II-Setup.exe
+
+## Текущая фоновая публикация
+
+Файлы выпуска подготовлены в `G:\II-installer-build-20260927\release`.
+Полная пробная установка проверена в `G:\II-installer-build-20260927\verified-install`.
+Результат: `full-install-result.txt` со значением `OK`.
+
+Текущая публикация использует `scripts/transfer_blocks.py`: файлы передаются
+блоками по 32 МиБ. Подтверждённые блоки сохраняются при повторном запуске.
+GitHub Actions `assemble-release.yml` восстанавливает пять исходных частей,
+проверяет их SHA-256, удаляет временные блоки и публикует готовый релиз.
+Встроенный манифест установщика остаётся прежним. Текущее состояние:
+
+```powershell
+Get-Content 'G:\II-installer-build-20260927\publish-status.json'
+Get-Content 'G:\II-installer-build-20260927\transfer-progress.json'
+Get-Content 'G:\II-installer-build-20260927\blocks-fast.log' -Tail 10
+```
+
+`published` означает готовность, `uploading_blocks` — передачу блоков.
+Сборка на сервере отслеживается в GitHub Actions. Пока загрузка не закончилась,
+ПК должен оставаться включённым и подключённым к интернету. Если процесс
+передачи блоков прервался, повторный запуск пропустит уже проверенные файлы:
+
+```powershell
+.\.venv\Scripts\python.exe scripts/transfer_blocks.py upload
+```
+
+Не запускайте второй процесс публикации одновременно с работающим первым.
+Обычный `publish_installer.py` пригоден для прямой загрузки при быстром стабильном
+соединении, но одновременно с передачей блоков его запускать не следует.
