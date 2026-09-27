@@ -1,0 +1,32 @@
+name: Assemble verified installer release
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: assemble-ii-release
+  cancel-in-progress: false
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    strategy:
+      fail-fast: false
+      matrix:
+        part: [1, 2, 3, 4, 5]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reconstruct and verify original asset
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/assemble_release.py ${{ matrix.part }}
+  publish:
+    needs: assemble
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify complete release and publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/assemble_release.py publish

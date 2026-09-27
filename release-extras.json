@@ -1,0 +1,22 @@
+[
+  {
+    "name": "II-Setup.exe",
+    "size": 45568,
+    "sha256": "052f11ea0342667ca76cf82a34a7c34ddeada57203f48b96e5741db6d3f1f643"
+  },
+  {
+    "name": "manifest.json",
+    "size": 1007,
+    "sha256": "07c2fddf5f4e626b839c0fac0bdc2e3621157cada612795a08905682ba95121e"
+  },
+  {
+    "name": "SHA256SUMS.txt",
+    "size": 675,
+    "sha256": "8dafd393ed6df7df073cacd1a20634fcba342a97b7e40b706aeab84a999e77b1"
+  },
+  {
+    "name": "SD15-LICENSE.txt",
+    "size": 14385,
+    "sha256": "be351ebe7ac01bcdbb018639aadcfd38f136b7dc3f2a3d4d3a24db51d1b210ef"
+  }
+]
