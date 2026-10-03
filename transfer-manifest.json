@@ -1,1109 +1,3034 @@
 {
   "repo": "dydosux/II-downloads",
-  "release": 397629500,
+  "release": 402546887,
+  "tag": "v2026.10.03",
   "parts": [
     {
       "name": "II-payload.zip.001",
       "size": 1610612736,
-      "sha256": "bac15f60ccd0c60a474de8975a4ef02990e1f55ac92e50954ff33158c8043040",
+      "sha256": "5da43a3554a05fe82045c8e46f70fd2b8e919ecc70074c9d863f41ef34a703ac",
       "blocks": [
         {
           "name": "transfer-II-payload.zip.001-001",
           "size": 33554432,
-          "sha256": "ab29cd8d2a4d2ea2a716892f4fe7465c9796db177c8e0740bbd103d5df71604e"
+          "sha256": "b4062fc954d9706aa67ee3400ddc3925b2c83bf8aa066e9a9593d36a8066c437",
+          "offset": 0
         },
         {
           "name": "transfer-II-payload.zip.001-002",
           "size": 33554432,
-          "sha256": "27bbce78fc4d2af612e00c226f3d628c7690cb28b48daaa7158a1eee60489f0c"
+          "sha256": "bfe7968de8f5c822340c9e2fd27d2eb96bc85a8d7aaa8964720793fde2ffa113",
+          "offset": 33554432
         },
         {
           "name": "transfer-II-payload.zip.001-003",
           "size": 33554432,
-          "sha256": "72b38353a29c951f8eceb3d0518843a52a043a46f08982e3d17fe313f2d119ee"
+          "sha256": "de9b0943d6bec2db4ce0c64137f8a2938f4db57c93e262443e94aaa50fe908fb",
+          "offset": 67108864
         },
         {
           "name": "transfer-II-payload.zip.001-004",
           "size": 33554432,
-          "sha256": "8d09b53613ebba8ac74695bac94c1b9f19b07afab7e75fc7d2e2f9fcd825a09e"
+          "sha256": "e72dbfd7b7de58f390f2c74de673b54494ea2a3345967ab14409fd54506861ed",
+          "offset": 100663296
         },
         {
           "name": "transfer-II-payload.zip.001-005",
           "size": 33554432,
-          "sha256": "e8b92b4ca9d7f01709888f67b63961daecd56a5b8e4d28fee3354148d7e87593"
+          "sha256": "3610dcaf13bc9a23cf5954f544a60b7993bae9744cf8189b3241e0ff5da4ff3d",
+          "offset": 134217728
         },
         {
           "name": "transfer-II-payload.zip.001-006",
           "size": 33554432,
-          "sha256": "910f670ecaed3f70d5e0d584dec46276b4d1bbe68fcfd5bf88c281d7c3571f88"
+          "sha256": "be52a4239bdb41d6c86eed859078a66f83cba33e521c5436848f282685cfe5e1",
+          "offset": 167772160
         },
         {
           "name": "transfer-II-payload.zip.001-007",
           "size": 33554432,
-          "sha256": "c30214a2bd9629c78cb12e3d78ecb81dc03ba69d520510719ca8c522805248e5"
+          "sha256": "1a9a43eb4a11f680a01386432ec101b0465f9a75d6083b1ce71679d41ae67159",
+          "offset": 201326592
         },
         {
           "name": "transfer-II-payload.zip.001-008",
           "size": 33554432,
-          "sha256": "c37fc7d8cf9f30047366bc0b07ee73a64a3a17d98dcd52c1096b6981afc42bd2"
+          "sha256": "a1e9924de2a775858fe564f1271390b449ff8b234f086464ddd03fdfa25a44c8",
+          "offset": 234881024
         },
         {
           "name": "transfer-II-payload.zip.001-009",
           "size": 33554432,
-          "sha256": "9445dc598c747764be8f4310fe46705e6c5d10055682095611424a51241b76b4"
+          "sha256": "8d950983aeef573e08485d67d8fad0e35634f59858a731e0eaf92f1102d3b68b",
+          "offset": 268435456
         },
         {
           "name": "transfer-II-payload.zip.001-010",
           "size": 33554432,
-          "sha256": "0467098199377005a898c822edbdf7d93482e7129de29f53f55549d1f9570c54"
+          "sha256": "7853a1e28a13b915c4910da6674dbb42418543ffbb6441e4502eda3721b990e3",
+          "offset": 301989888
         },
         {
           "name": "transfer-II-payload.zip.001-011",
           "size": 33554432,
-          "sha256": "e89812a24dc0bc14f74f8c0f888d07345779bbfb0ea54d0f9113688c642a152f"
+          "sha256": "a91da3f00df5e3a06c583173433d3bc81ca9eb22882598906c664d0a4c0207df",
+          "offset": 335544320
         },
         {
           "name": "transfer-II-payload.zip.001-012",
           "size": 33554432,
-          "sha256": "0f685515c24ba11e2f79d353154f342635c57ad7e80bcfba773bbf80c1269d0b"
+          "sha256": "275c023aabe186859064400710b0bb30e0da2f0353a8761fc0d292c730de7e72",
+          "offset": 369098752
         },
         {
           "name": "transfer-II-payload.zip.001-013",
           "size": 33554432,
-          "sha256": "de10e44a5d8bf4e7f9bf75a196ad5db092328871b31f7a0e9a298fd19d630d3d"
+          "sha256": "04bb3f8be02f7979ac3f2e5c07173ed55ad54cc4432ecaaedbfb04a194c8f880",
+          "offset": 402653184
         },
         {
           "name": "transfer-II-payload.zip.001-014",
           "size": 33554432,
-          "sha256": "226e29625217f5313d3a02342894fe7a9400da666549dba8b829d8491d41d164"
+          "sha256": "334a8c75a0a64a2655ecc2709441e4cc276111b867f775a4ceeb7d6f8d4c1c21",
+          "offset": 436207616
         },
         {
           "name": "transfer-II-payload.zip.001-015",
           "size": 33554432,
-          "sha256": "44cf910ff7ab6d9f5234a8e1979b9226e562b05489b30cc26ff187fef8cb5b35"
+          "sha256": "a787545cf2c4b3435720f2d04379c7720075a470850972810bd1da7ff9ab4cb2",
+          "offset": 469762048
         },
         {
           "name": "transfer-II-payload.zip.001-016",
           "size": 33554432,
-          "sha256": "7cf5217116038fc4d0f6747f8b4c47dc5fcf4e3486e587d0ac85239f1d037b2a"
+          "sha256": "00f7770775dbee935015c2f17b59f0b3bad0eb8fbe46aaeba644794438baf241",
+          "offset": 503316480
         },
         {
           "name": "transfer-II-payload.zip.001-017",
           "size": 33554432,
-          "sha256": "f63a5bd105fcb943c479ccfd1a6f01f2504743206a06b2a8013c6503f305e47a"
+          "sha256": "3d6c9d53d214089c9a9f8adcabf515e03296e20ea525132ca183c00939ac8216",
+          "offset": 536870912
         },
         {
           "name": "transfer-II-payload.zip.001-018",
           "size": 33554432,
-          "sha256": "f1acbff667e2d33d84c9aa7b1b847e62429974f4f4e4efe5d30c2302fac62307"
+          "sha256": "690b37e2101389ffedf2e1d1970a460bd07a1bb1c7fd1cfbc2d08404a57d7a1d",
+          "offset": 570425344
         },
         {
           "name": "transfer-II-payload.zip.001-019",
           "size": 33554432,
-          "sha256": "bb43ca727a345ff1cf66434fbb2b41c788b86c7ef5007ddd7fc3606ea60d6428"
+          "sha256": "45e1c4672f57569329f561870001c3ac52344fca5384a9cb4d2d48447b2f4b4e",
+          "offset": 603979776
         },
         {
           "name": "transfer-II-payload.zip.001-020",
           "size": 33554432,
-          "sha256": "3aa08c075294643aae6c868b42fbf28d0d0494cf8f97ce50ebe8633a37238e84"
+          "sha256": "25266a31462efcdb278652fe13945a10bb987cca73ebbb94ad3206e56a6468e5",
+          "offset": 637534208
         },
         {
           "name": "transfer-II-payload.zip.001-021",
           "size": 33554432,
-          "sha256": "0f2ae4b0129a0a18d8ab91d0f393f761b6cdae8a509645e91d686fb3eafcb018"
+          "sha256": "893d50c0953f2989cad79c72fd4e1c974af07b7d34311651dd7d2b24dd527f35",
+          "offset": 671088640
         },
         {
           "name": "transfer-II-payload.zip.001-022",
           "size": 33554432,
-          "sha256": "a29f1bfb6344b788c61538c9227a2f03bb145fde27a17889aee253ada7429a23"
+          "sha256": "064d0341f41321679f4d51d2fb27b918dd3d97dcdf242d2683f904588c8001c0",
+          "offset": 704643072
         },
         {
           "name": "transfer-II-payload.zip.001-023",
           "size": 33554432,
-          "sha256": "18b825e17dce0168e8d0f374f671c61d4724a0aa90e29622f8ecbfcd05c28137"
+          "sha256": "025b018dc46cb1232feba65ff6aaf321751012f9179719f82533f460f8ddbc34",
+          "offset": 738197504
         },
         {
           "name": "transfer-II-payload.zip.001-024",
           "size": 33554432,
-          "sha256": "60342a094fe2ff02e5b086d4c95a0cde25ecc376f421ec6d1090c03937b0d3b4"
+          "sha256": "1883d054a26fee9b635f386aa248298e8be0576104e68898e49aa146f1605942",
+          "offset": 771751936
         },
         {
           "name": "transfer-II-payload.zip.001-025",
           "size": 33554432,
-          "sha256": "2dbb380e0e39739fac3635b2d34f9ad7ad6f8bcbd46be433f8350365e1450ecd"
+          "sha256": "a1f9a52c12e0587df22a6cbc7b582514a993048f915cae3bcd27e8c8d95d2974",
+          "offset": 805306368
         },
         {
           "name": "transfer-II-payload.zip.001-026",
           "size": 33554432,
-          "sha256": "6f4cc750eadc874d29ac0e0c17cde934e5e0bdfbd81c800eaa734ce3625b520a"
+          "sha256": "c3f7f9fb24ae4923885c52b82e54526f969d95379bc20bb9783aa3ea19664365",
+          "offset": 838860800
         },
         {
           "name": "transfer-II-payload.zip.001-027",
           "size": 33554432,
-          "sha256": "40f175431d3ac924746a2a50b925b6c1ea6b3194b332c5530dbc69b1b13727d6"
+          "sha256": "970a480d31b6617c1755ace1b5c3c80a1917ad168b05fe6062e7ccba7dce2cfe",
+          "offset": 872415232
         },
         {
           "name": "transfer-II-payload.zip.001-028",
           "size": 33554432,
-          "sha256": "49e1b223a82509dd99ccd0427cc34e5daa6debf5ef2b06a92ff0e6c78a1718ee"
+          "sha256": "eaa38351e558d0593c623733f76553e70ccc2bd709e6805b2a98c77c93be6918",
+          "offset": 905969664
         },
         {
           "name": "transfer-II-payload.zip.001-029",
           "size": 33554432,
-          "sha256": "51fe84294767f7c0450e95207a1e1ed21c57eab41451596cfac9e18b921dbc46"
+          "sha256": "b41a3b4ad55acc1d5255fbb849f2002101576d5435d4192d799225f1d9797ff7",
+          "offset": 939524096
         },
         {
           "name": "transfer-II-payload.zip.001-030",
           "size": 33554432,
-          "sha256": "47ece617f8e8e374b4922cafaf93957b61f4902bcb5aa1d6478816d2daf7c1c5"
+          "sha256": "8027a0f059dc77c7c45192dd34e2a3bd80bbf477309c3582258b1d6ec1addc01",
+          "offset": 973078528
         },
         {
           "name": "transfer-II-payload.zip.001-031",
           "size": 33554432,
-          "sha256": "15efebc269a36e77dd080bd773bbdc04fcc3eb42439c661eeaf2d23c109a485e"
+          "sha256": "974bc65e3ac56b7582263271a89cca1296442b44a652bfc7d9f1d8f0552fa5ad",
+          "offset": 1006632960
         },
         {
           "name": "transfer-II-payload.zip.001-032",
           "size": 33554432,
-          "sha256": "c6f51e18efedf7b7c122ba0b719297398dd10ca17fecf207fb1ad191a7df882e"
+          "sha256": "4e44cb14a0eb4f38c7f0ebc692a02ddf38e0ec33f368a7bb696ec4b0867a1c82",
+          "offset": 1040187392
         },
         {
           "name": "transfer-II-payload.zip.001-033",
           "size": 33554432,
-          "sha256": "7d51298e57583888922b822badb553d87c2f0860f93afa1b680ac6ca83349d19"
+          "sha256": "add408d1ffa11f18eb21864dfde879a3dedf24effb2367f7c9c872077b8f6141",
+          "offset": 1073741824
         },
         {
           "name": "transfer-II-payload.zip.001-034",
           "size": 33554432,
-          "sha256": "47be6833c45ce6d14fa247f088eb5b3ed6af8f5f84994bda108a251af754637d"
+          "sha256": "0b31a6c28a1b3028c46f3e9cc94de86c9cb51ec87d350be431ad0b17d5a0b62b",
+          "offset": 1107296256
         },
         {
           "name": "transfer-II-payload.zip.001-035",
           "size": 33554432,
-          "sha256": "ad1b03705ed4f4b722b59b44a4b3a8c02a9924fc9c7842010837ddb28ff34777"
+          "sha256": "4231b6458d6fea7f229b08a0ca2ed8eeb4e454940a9f728b7901f968ed4e4435",
+          "offset": 1140850688
         },
         {
           "name": "transfer-II-payload.zip.001-036",
           "size": 33554432,
-          "sha256": "3f1195238af634eab65037f40184e26e6c59af47871b3738f05b6515dc3dad24"
+          "sha256": "108189fa10b421e0d4ddb389986fbb5c57198bea148667464188e72ebc70bf1b",
+          "offset": 1174405120
         },
         {
           "name": "transfer-II-payload.zip.001-037",
           "size": 33554432,
-          "sha256": "ac6ed6e75982ac62f0aaf34720c6d3b5e590b9cb40436d4af6a4b3b0ffe46519"
+          "sha256": "fbe32ed190a81d0852ec661dc208a7d1acb21f2bdd722a03af45c0aaba11c716",
+          "offset": 1207959552
         },
         {
           "name": "transfer-II-payload.zip.001-038",
           "size": 33554432,
-          "sha256": "64ab9af675ba12838a14e73d4e2d7ebd7eed5e78903bbffd113e1114515e34a2"
+          "sha256": "41724836d6e6aaf67a5141848e7f0e90c156c9fbd901bfeda1473a69ed77652a",
+          "offset": 1241513984
         },
         {
           "name": "transfer-II-payload.zip.001-039",
           "size": 33554432,
-          "sha256": "4811955fbd81f7afdc4aa653713ed62d7eff596ff9f0abe92d557a0aa0c43617"
+          "sha256": "18b1cdc066f716e1af82af74566a8e0c7bc6b58d2f70a22cf76eba375425b643",
+          "offset": 1275068416
         },
         {
           "name": "transfer-II-payload.zip.001-040",
           "size": 33554432,
-          "sha256": "062bda71ac29ad380a46b2a17d46634f0de8eb2ec4c062c56b7799237189afa2"
+          "sha256": "eab2822ec1db895c81fb6ef4d73a2c74c373429f10eaf81d0752847447415ebc",
+          "offset": 1308622848
         },
         {
           "name": "transfer-II-payload.zip.001-041",
           "size": 33554432,
-          "sha256": "9b5587b6e9b308c518f021932db1edf9bc8d6e60e0d713cbf2ff744d6d7fd382"
+          "sha256": "e308c630e2c448aa68d0b8ae7a05282bcba0f15ff65243ba47f15785aefcf66a",
+          "offset": 1342177280
         },
         {
           "name": "transfer-II-payload.zip.001-042",
           "size": 33554432,
-          "sha256": "a580a30a2c5b4c2e74a89e37cf2a4a8d86c5d16353aff939d6490802d879fab7"
+          "sha256": "5620fd5655a976eb47869c22ddc0d40f4ad0b92ce6b6ee86bb32717b410df12a",
+          "offset": 1375731712
         },
         {
           "name": "transfer-II-payload.zip.001-043",
           "size": 33554432,
-          "sha256": "dc510b9f95e5a466c2dc9f3eefa83303dc4a85c3ffe8435825aed1350102096a"
+          "sha256": "15950dcc66d33d621a3958457003c0db9a05adf935f77cd929faf7518f44ad5b",
+          "offset": 1409286144
         },
         {
           "name": "transfer-II-payload.zip.001-044",
           "size": 33554432,
-          "sha256": "e230934aac4779f1deb6bf98bc1601083d92d01145bf1cc9c62bfc9bc96b1c01"
+          "sha256": "0173285c5ee1649f399d044c2498aee0e8cb9bb64326d8fdef78a70af89324a0",
+          "offset": 1442840576
         },
         {
           "name": "transfer-II-payload.zip.001-045",
           "size": 33554432,
-          "sha256": "c55d5ce9c3ad5240e6781c74352235a91d5238af96d1c9ca4ebb4d8c355cfc54"
+          "sha256": "b8e3a94b0a346195f389b77d71094d3e067c9e0f0e71246cb6d3d7c18f1581ec",
+          "offset": 1476395008
         },
         {
           "name": "transfer-II-payload.zip.001-046",
           "size": 33554432,
-          "sha256": "3563ccaa5e8473396db88e86b3e24ce41baf11a86ad9aaa54b83125249f443e9"
+          "sha256": "2aef8d01816ffa9c902ba9b1ac034bde752b1c569a92038992bb0288d8cb106f",
+          "offset": 1509949440
         },
         {
           "name": "transfer-II-payload.zip.001-047",
           "size": 33554432,
-          "sha256": "2adb95a4bfc4acfdc96e8453e50e4caecd2f6dca2d4df689088918ba7395174b"
+          "sha256": "7171985a361fd492103e7866477feafdeb784ae925d0d4c2b6eaf7ae1f5523f3",
+          "offset": 1543503872
         },
         {
           "name": "transfer-II-payload.zip.001-048",
           "size": 33554432,
-          "sha256": "724b8f6a4e8bd095516218fc9b4bfa68f3cffaa7633fdaa0aa7db310f9467437"
+          "sha256": "545abc97a9bfaeebaf997b940c45ac8f47edb78c834b66db64bbb0f1319bdd55",
+          "offset": 1577058304
         }
       ]
     },
     {
       "name": "II-payload.zip.002",
       "size": 1610612736,
-      "sha256": "861bb88c737dcae426693131b84453ca07ae6fa463024de1c7b0acd5461981cd",
+      "sha256": "e49f74b43dec1d9bdd609285169470942cf2862c9e3103ccacb1fd0c708d4082",
       "blocks": [
         {
           "name": "transfer-II-payload.zip.002-001",
           "size": 33554432,
-          "sha256": "7d5f36eed5d55bc5f1e059ec59f1e5eda2eed0c58329a446ba69bdd98e4e4e1c"
+          "sha256": "76608cd141fbffcfcfea7c48306e0a8cd52da8f8f458550ae05dc5df4204b976",
+          "offset": 0
         },
         {
           "name": "transfer-II-payload.zip.002-002",
           "size": 33554432,
-          "sha256": "7c0319e28f84f1963fc848647765c1eb68047afbaa6ba42aa0e583debf332680"
+          "sha256": "0e77ca3b8c2d98293a34acbff53e7daeb28b61dbbf68e8afef4519d3ba455cc9",
+          "offset": 33554432
         },
         {
           "name": "transfer-II-payload.zip.002-003",
           "size": 33554432,
-          "sha256": "14cf68f1b0e03a49757025970165c6223d505031d5444505e957f449e641a216"
+          "sha256": "f51adcca3a2ee6707a7c25b847c5640db8fe8cd6ec05284d710d5146f241bddb",
+          "offset": 67108864
         },
         {
           "name": "transfer-II-payload.zip.002-004",
           "size": 33554432,
-          "sha256": "0f3c3f9ff579e263732aab131b602bdb18eb0bdece1b913be6485bab87c09905"
+          "sha256": "74f61e1f209db88d9a2b463929df7fb9c97754ac85713de1194c17921552c946",
+          "offset": 100663296
         },
         {
           "name": "transfer-II-payload.zip.002-005",
           "size": 33554432,
-          "sha256": "ec68708fc7b28e57bb3a35d0c564d83598630a2979ab36ed7bf054c05a79cb49"
+          "sha256": "c5592e7da0bf2c614a74d8f2d9b0da2e438e610341750dcd7277e40819a2e28d",
+          "offset": 134217728
         },
         {
           "name": "transfer-II-payload.zip.002-006",
           "size": 33554432,
-          "sha256": "6cb5442cd94a42bb618444929a187785641b195b87319196e6df3ae82463e2ae"
+          "sha256": "8bea3bea2bcfdf3dbb38c158b2e1be652e0d2436c94f4a53a9d0b56e00e64e9f",
+          "offset": 167772160
         },
         {
           "name": "transfer-II-payload.zip.002-007",
           "size": 33554432,
-          "sha256": "7f635c62d951b417dcfcc63b80ec4e095e4aabfa6302a57892735a9ae88a0ac5"
+          "sha256": "0ef1f5738f7e1297ad23905b81245432526d079405ac52c7d29694b633eab333",
+          "offset": 201326592
         },
         {
           "name": "transfer-II-payload.zip.002-008",
           "size": 33554432,
-          "sha256": "127942f4ebe1862d0665c54fe3f260de3e490b584cf6979ae310c624799ea6be"
+          "sha256": "07c9f965518c7f641806cf243c39cffbdb871c367255c147610e117689a067a6",
+          "offset": 234881024
         },
         {
           "name": "transfer-II-payload.zip.002-009",
           "size": 33554432,
-          "sha256": "81a63b24d1b20d4d781c7c130ca124a65ee321566e67cb6f8dc2767f304fa248"
+          "sha256": "56bbadb30d2dfd98ac0100641650215bec10a4a4e89d8f8055fa5a8418fad46c",
+          "offset": 268435456
         },
         {
           "name": "transfer-II-payload.zip.002-010",
           "size": 33554432,
-          "sha256": "0bbab25626b893d7f724a66f7f659882a432757cb666071491824de88286bb2c"
+          "sha256": "215814cb92acf9255d9f0088ee9d8299491c6a70666cd9bd6a0c59a77559cea5",
+          "offset": 301989888
         },
         {
           "name": "transfer-II-payload.zip.002-011",
           "size": 33554432,
-          "sha256": "a4381e0539c39d4019ec2ff8543c8f5137df444223b05a8cb832552dfbd62d7b"
+          "sha256": "5e7f96ddc50ac95ce2b115b2fd1fb268e95bacdac3de03d338191a8b837c6d7b",
+          "offset": 335544320
         },
         {
           "name": "transfer-II-payload.zip.002-012",
           "size": 33554432,
-          "sha256": "6e7c6b7d3efa9d1b210e3ccf660455f8fba51e24e8793b91de4c4eea05ce7df7"
+          "sha256": "290d096b3b13edf1f906e81ad39a5a46cf43ba248abb76d4a79db157cce1e218",
+          "offset": 369098752
         },
         {
           "name": "transfer-II-payload.zip.002-013",
           "size": 33554432,
-          "sha256": "c885de090e23c30f977a147b73c928961ccaf51037a1963954b0da4d855abcae"
+          "sha256": "ef9668fbf2b5e06cdd438b92b4a7161dcf04137e4946b879bd2c2d6fbe6155fb",
+          "offset": 402653184
         },
         {
           "name": "transfer-II-payload.zip.002-014",
           "size": 33554432,
-          "sha256": "143acdc0c92d4de38b67457dc0e6de8b99f292b4b792d4b6caa914018c455f58"
+          "sha256": "f37079882a42aea167800133546a748e8c0d05089383007abb817ae80d4a063b",
+          "offset": 436207616
         },
         {
           "name": "transfer-II-payload.zip.002-015",
           "size": 33554432,
-          "sha256": "c2eea7a4e1b67dcee3cfbd467110c84d6eeee0142ec358b1ac7c69ac59aa4070"
+          "sha256": "88ed25ba3ae92cf822c1fa4e54c77d9022289d983d55ba6d17a92282c7eff553",
+          "offset": 469762048
         },
         {
           "name": "transfer-II-payload.zip.002-016",
           "size": 33554432,
-          "sha256": "dafab76cea618e87b607d61a6fe4346fdd8d9f37cc859bde9d1ca1987407989b"
+          "sha256": "412dbe193c2b7b27e0b81bd91b352113f01e606a4523534ffc96ca1ad880001e",
+          "offset": 503316480
         },
         {
           "name": "transfer-II-payload.zip.002-017",
           "size": 33554432,
-          "sha256": "dbee9e21b07b825f3c2415c05f03a51e0e0884dc45d041f1ccba648a2b895873"
+          "sha256": "08e515957856911274f78d282b7fe92cafc9acb7fccc74c8ae3962a7b1f8073c",
+          "offset": 536870912
         },
         {
           "name": "transfer-II-payload.zip.002-018",
           "size": 33554432,
-          "sha256": "1c7c3945f1d03deabe7d193ee9924b4d2e56a5674f9cd97a21784a8ec3403962"
+          "sha256": "d517f46ca80221b584d84b76fdf5414677efcee86d33216f451efa76a1f726e4",
+          "offset": 570425344
         },
         {
           "name": "transfer-II-payload.zip.002-019",
           "size": 33554432,
-          "sha256": "4dec15fd42a04846242f106cc336b1e8c7eab94393c073efd1d64417993e5d18"
+          "sha256": "3e9d4e3da9cb795626b8c3c69e75208195d6a3d60b533f1d4066c5fe9e433177",
+          "offset": 603979776
         },
         {
           "name": "transfer-II-payload.zip.002-020",
           "size": 33554432,
-          "sha256": "391160849ead18d12e3653034f8aa79cfd61457cf58dfea165fa5ac1c9dd68ec"
+          "sha256": "ee7b790d0e60a7e8f98cbad351c008f5c9b80366b0f7fe14d2b4e04064009555",
+          "offset": 637534208
         },
         {
           "name": "transfer-II-payload.zip.002-021",
           "size": 33554432,
-          "sha256": "0239d37320d44d8dbe4df435542a61c833fd14ddd83ccc1f634cc8c81be6b952"
+          "sha256": "2809cd20d095078ef57fb9478ab38fb028cab57cdbd2d29d922572a186142539",
+          "offset": 671088640
         },
         {
           "name": "transfer-II-payload.zip.002-022",
           "size": 33554432,
-          "sha256": "e5cb2bb1fb83b6084b1f12b0f577c502531e75f25b267d546893a6498d070bbc"
+          "sha256": "71e40352916f34e64732ad22f02dab8236a412de5639e3b2168aa264f681556b",
+          "offset": 704643072
         },
         {
           "name": "transfer-II-payload.zip.002-023",
           "size": 33554432,
-          "sha256": "52322c6b7856d40f14cb28402361e612dd33c7039773cfdfd3d6b50c79fb6d1b"
+          "sha256": "cb4c93edc97bdaf79f12d523d1c355e0c651ed439d9b18380b807ffe7db177bc",
+          "offset": 738197504
         },
         {
           "name": "transfer-II-payload.zip.002-024",
           "size": 33554432,
-          "sha256": "a66952c6101707808d926e38f31ebd00b744e0daa7be4d3dc5d4c61c83e5f489"
+          "sha256": "483a475cdf863647530226f8b89b52da41fde748cba0ca6025346cf84ace4a85",
+          "offset": 771751936
         },
         {
           "name": "transfer-II-payload.zip.002-025",
           "size": 33554432,
-          "sha256": "f68745cb322831c4e817755d047c80394aa7dd1afbe6beb2a86269e99bc46323"
+          "sha256": "391a687338475fdff268a2304c8004a3ea68fa8deaddf463055a3bcc9deb55ef",
+          "offset": 805306368
         },
         {
           "name": "transfer-II-payload.zip.002-026",
           "size": 33554432,
-          "sha256": "fa12bd1deeb1a214dae13eca06697db0e0ed3c21ec9ab71f203e7667181586a1"
+          "sha256": "e799290c19b32688c9df579b9f9ca378d0a18c69aec0f44e55576565bba08bfd",
+          "offset": 838860800
         },
         {
           "name": "transfer-II-payload.zip.002-027",
           "size": 33554432,
-          "sha256": "be0be728c1bd397d00e8d6c2b256331c5b998d173b7b12d787b9f4bd7c5e14e2"
+          "sha256": "5a402a2b4bd3bc575c475b40e4fd15bd1a5341cce167d6f39517832b4fa9f651",
+          "offset": 872415232
         },
         {
           "name": "transfer-II-payload.zip.002-028",
           "size": 33554432,
-          "sha256": "7c864fe10f4530d6ad5e3b45a1c51d9e029bb65fedd0455af28471d2f7527e6d"
+          "sha256": "b0d4276c731d8918055ea50ae8a39413623b5ab6a3af91961914e7b486381c5a",
+          "offset": 905969664
         },
         {
           "name": "transfer-II-payload.zip.002-029",
           "size": 33554432,
-          "sha256": "c45ca9b9bc175d4efe1c3bf6c485dc7604c3098c92b0cec5e353cbf9a866fecb"
+          "sha256": "f381f6067ccf4a498cfd6ec4d12fb9ab70e2e37c83d2ea0dd50805b74549e9e2",
+          "offset": 939524096
         },
         {
           "name": "transfer-II-payload.zip.002-030",
           "size": 33554432,
-          "sha256": "3844a16aee537b980cfd5e91af5105f256869b650ded4264fef9f2ee070bd966"
+          "sha256": "90d22ef9cefd6a2584ea71fbeb71a2d06f79851d8621d52660e21700fefa4bca",
+          "offset": 973078528
         },
         {
           "name": "transfer-II-payload.zip.002-031",
           "size": 33554432,
-          "sha256": "b9f3ff84a2c36fb051188901e0845bfb725f6532f7c932a2cdb32802f787bd8f"
+          "sha256": "593d39163f49c17b557123f3276554aa64e39a09811db57c02011c095fe6ccc4",
+          "offset": 1006632960
         },
         {
           "name": "transfer-II-payload.zip.002-032",
           "size": 33554432,
-          "sha256": "81fdd8d595f26cdccf82df236463b1b2d21934f7ddb06dac6ac08db80e00cdcc"
+          "sha256": "f8626e4fb060a4a93c8ca834ae84af333632b7b8436062f0b8782440921d1b9d",
+          "offset": 1040187392
         },
         {
           "name": "transfer-II-payload.zip.002-033",
           "size": 33554432,
-          "sha256": "b249ad0aefbbcb57cc84f267d934513889e59e79bdd2ba853cd32b05619fad47"
+          "sha256": "02ffcb5242afd76653ef4fe6ac5d195b645cf059795924ca95c95b87a0195099",
+          "offset": 1073741824
         },
         {
           "name": "transfer-II-payload.zip.002-034",
           "size": 33554432,
-          "sha256": "ab91c530c2f420c35745f0eb1e6cb35177523c2121cc615d5b807818b844391f"
+          "sha256": "b1f71931eee2d07b231db041bfd34c8da4ce81f01618540486a05fe5282ede1b",
+          "offset": 1107296256
         },
         {
           "name": "transfer-II-payload.zip.002-035",
           "size": 33554432,
-          "sha256": "deb15af8a47c4b173010bea476a5b17a8561d2b4c3d1a62ec8a6e69b607a448b"
+          "sha256": "eb47c3b19af96c19175fe1a615fb55ce5ad4ecff79119d4cd00e8e2db4e2d145",
+          "offset": 1140850688
         },
         {
           "name": "transfer-II-payload.zip.002-036",
           "size": 33554432,
-          "sha256": "f0d30f22890aff1d3a68d3fa828fde1c8f5f20e15b067b138db3eb8dc4b9743c"
+          "sha256": "81eaf2c96f84fa6fd6f721fa1beb96dd463303f8bfa0593b22715791d7001689",
+          "offset": 1174405120
         },
         {
           "name": "transfer-II-payload.zip.002-037",
           "size": 33554432,
-          "sha256": "4fa970a8e4717ca872ba04ce9217acb0886e644c9c088f6401c0f3147d75176c"
+          "sha256": "9848014b04479ebb1488b233f8f9bcfcbbea5ed541c96c779a876f715e53a3d7",
+          "offset": 1207959552
         },
         {
           "name": "transfer-II-payload.zip.002-038",
           "size": 33554432,
-          "sha256": "a7231b027a5006302d3faeb1a8b629f15c91f9bf79f2cd4a865480117578bc68"
+          "sha256": "8246a0a895c092ac93df9ba6c8d984ab1714606aaa89d55b594950ad0b95a5c8",
+          "offset": 1241513984
         },
         {
           "name": "transfer-II-payload.zip.002-039",
           "size": 33554432,
-          "sha256": "c4adb260d4a34aab77e7fc311ab9818566122204534fa33fc286757e45979679"
+          "sha256": "847a1be686fa512800eec5e83b814ba2c566dff19fd5a2b44e174b95989c0d26",
+          "offset": 1275068416
         },
         {
           "name": "transfer-II-payload.zip.002-040",
           "size": 33554432,
-          "sha256": "dded489bda02ef5d548f33462b7408e23a7de2db1c3fbd00abbe0ee219eba064"
+          "sha256": "c2197028a7a5bcdb3daa65b8fa697f03c188d4b2f524868597535d353aebd8d3",
+          "offset": 1308622848
         },
         {
           "name": "transfer-II-payload.zip.002-041",
           "size": 33554432,
-          "sha256": "293b00d337c225a1896f3c64b458bcdda70253f836e084de6defc9ff79851e62"
+          "sha256": "1ae61966b1441a669c994fbd13dda28f5ecba6ba7b9625d222db25907820e6bc",
+          "offset": 1342177280
         },
         {
           "name": "transfer-II-payload.zip.002-042",
           "size": 33554432,
-          "sha256": "5032226b62e396c0095516dddcc1e29ad7159318e192897a1b8ed7a91b07cb96"
+          "sha256": "42604148130de4a4e46be169a34658617dd11a60bf3b3ef11a8c65660d6b0823",
+          "offset": 1375731712
         },
         {
           "name": "transfer-II-payload.zip.002-043",
           "size": 33554432,
-          "sha256": "73f5c2151895efa4ad9c40e3a69f8aed49cf7d4ebc8de6f85370eef1f1889a57"
+          "sha256": "b2a91118d8a685d8494fb82d6d13a3fcee37deb46fc708aef2fe0e441a0b10ac",
+          "offset": 1409286144
         },
         {
           "name": "transfer-II-payload.zip.002-044",
           "size": 33554432,
-          "sha256": "bdac39625909aa6a6c9f6d05006ec4f2b38eeda3e6443be664fec8171b401421"
+          "sha256": "244573a2d9b2ae06b1edc9a87ca6ce23c068a835e359e9cb19c3771258448215",
+          "offset": 1442840576
         },
         {
           "name": "transfer-II-payload.zip.002-045",
           "size": 33554432,
-          "sha256": "8b8355d76eb0c45f38a4003c6f96349b5a7b0f9c6e5711b4f0f05590a80ed45c"
+          "sha256": "6059d739f4ae90aef8f34b43477ca2bd73ef4e8d2420e2e5ab0bc1d5ac9e6c80",
+          "offset": 1476395008
         },
         {
           "name": "transfer-II-payload.zip.002-046",
           "size": 33554432,
-          "sha256": "eb5ba96fcc92f29da81a9731bbba943c933d5a1d7547dd69775caae8fdabd093"
+          "sha256": "9030116dee55fbd38e7259c7f3123062952390244a952ca7d5751733340beb4f",
+          "offset": 1509949440
         },
         {
           "name": "transfer-II-payload.zip.002-047",
           "size": 33554432,
-          "sha256": "6cd6f7e042b8bc6c0a8c108d87c892932ac3252ee470053583f30930430f9c10"
+          "sha256": "2e494fa29f7017b613118c9d0a7ae22ca85a861c711927321f258f22d99f2861",
+          "offset": 1543503872
         },
         {
           "name": "transfer-II-payload.zip.002-048",
           "size": 33554432,
-          "sha256": "8051cd2b90871acd901b8c6837babdae976b50405433500d74511c38b3da8592"
+          "sha256": "6c7e61edd7bf8b5eb5e2b5eba388959a04ce8046d016467865110d6863f9abe4",
+          "offset": 1577058304
         }
       ]
     },
     {
       "name": "II-payload.zip.003",
       "size": 1610612736,
-      "sha256": "364577502271e17a96a8dd5955db6aba68c09abae3026d6404a0d7b4e7cb8450",
+      "sha256": "03096bf3982a794654f564779699d1a20fe37825faa1248f1fd710a2233079d3",
       "blocks": [
         {
           "name": "transfer-II-payload.zip.003-001",
           "size": 33554432,
-          "sha256": "c3bbd873b1d7f61e954a89228c5e697c7250dc08e8d1927c52cf8dc26a81159a"
+          "sha256": "97210905ae1715b70f169d92cb1fc11734aa9bf1b15e766d6ecc8cb3543c0d01",
+          "offset": 0
         },
         {
           "name": "transfer-II-payload.zip.003-002",
           "size": 33554432,
-          "sha256": "7c3276ce88631964414dff8bda12381f6ed5700062121b805a66524037b8536b"
+          "sha256": "b99f59eb44362d3c3f1c9f9c9d57bb9f8298287bf721016ca7de6025f7d6889d",
+          "offset": 33554432
         },
         {
           "name": "transfer-II-payload.zip.003-003",
           "size": 33554432,
-          "sha256": "f79cd9d28a1b5215e3825bc518ff71db6867da37af3313fecc7b3f094d41949d"
+          "sha256": "bd6ea84fae345fee32574d4f4ee50be15a7b70fb4a8c0176ad2622afa4b2c459",
+          "offset": 67108864
         },
         {
           "name": "transfer-II-payload.zip.003-004",
           "size": 33554432,
-          "sha256": "8fb3b2908e062e7312895bb7ccd47f3234669411bc67a00b9f5a2ba9cbb340eb"
+          "sha256": "3b77454465822a9b8bc140ba54ac8b06781e20f5d2128f8e44ec944bc9c4e575",
+          "offset": 100663296
         },
         {
           "name": "transfer-II-payload.zip.003-005",
           "size": 33554432,
-          "sha256": "899c434b26a8ff72ccbc7042506db8146ce1b56bff8d32b171c71208b2c0fe37"
+          "sha256": "4acb0fe02e8af8eb51bdd7f6033367f367a7bb0beca320c7489611b007fa142e",
+          "offset": 134217728
         },
         {
           "name": "transfer-II-payload.zip.003-006",
           "size": 33554432,
-          "sha256": "8a9f38d81444492720b362739c9b5548341fdbb1709aeaf69470b743d5f3745f"
+          "sha256": "0041b5a8678ecce96436b42f3a66e637cc5dab7aaf01d1e9d7b766f88fa8450d",
+          "offset": 167772160
         },
         {
           "name": "transfer-II-payload.zip.003-007",
           "size": 33554432,
-          "sha256": "5081e79ac16c12a52cc4d96a5c785d6f1fe1d5b57ff0bc46f846654e94d5a6a3"
+          "sha256": "c23910d6958ebe1680105ca84ef10f625eb24c9bb1011b6ed96837e7cd01c496",
+          "offset": 201326592
         },
         {
           "name": "transfer-II-payload.zip.003-008",
           "size": 33554432,
-          "sha256": "e647c4d0f2af1a0dcf0c2ed3843745ee5bd9c38318c58587f2db4e66c94953fa"
+          "sha256": "aafd2712b5c908e7bd54526905a8fecd959938369de9484ef3f5b4f80622c10f",
+          "offset": 234881024
         },
         {
           "name": "transfer-II-payload.zip.003-009",
           "size": 33554432,
-          "sha256": "a7499e88473c02cf991238328b38031e827e01598f801abc41bd1d5b6a41c996"
+          "sha256": "b8413de68dd422b2cd03dc08c61d5ddf0de83bad651f851ce798e9eac7d0e3d5",
+          "offset": 268435456
         },
         {
           "name": "transfer-II-payload.zip.003-010",
           "size": 33554432,
-          "sha256": "770c962090bcbf84627cd0bdd76dc8a6523c93c02d0bb50aa6e6615930a2b37b"
+          "sha256": "9450d4528ff25ebdc456b72a1f5eb96f3388e3138db7645c6eda1b250dcda706",
+          "offset": 301989888
         },
         {
           "name": "transfer-II-payload.zip.003-011",
           "size": 33554432,
-          "sha256": "ea3461d296a6ce910eeefa8f4e2a82b895fa6e9c5956274a722be18f82c474c9"
+          "sha256": "795c668eff0de607e0dc9d189822668370698e71acba060dec72ee451f15575e",
+          "offset": 335544320
         },
         {
           "name": "transfer-II-payload.zip.003-012",
           "size": 33554432,
-          "sha256": "763ee9a018d29fe04023d309f5d1958be9eb7fe71c2ec047560bbdfc274d870b"
+          "sha256": "8e47b25b573348b704fb417d8a472d472f462d58bd2d9e23d8bd89b53dd2a914",
+          "offset": 369098752
         },
         {
           "name": "transfer-II-payload.zip.003-013",
           "size": 33554432,
-          "sha256": "2d44872304681e80eca8545793c6780215b9f740b4bd119355fe9fafba835079"
+          "sha256": "625b9e541982fac97c2bc18b755e6abce5c56d800f3339e545edfb2775f88b5d",
+          "offset": 402653184
         },
         {
           "name": "transfer-II-payload.zip.003-014",
           "size": 33554432,
-          "sha256": "0b48a95e5f00e122c2cc0163af5c278c28d28eb8759eda287f40a4ee6b38392d"
+          "sha256": "7c63c5a838f010306fec09a8bca526407f0e595c0e1f55c15b9091e4222821c3",
+          "offset": 436207616
         },
         {
           "name": "transfer-II-payload.zip.003-015",
           "size": 33554432,
-          "sha256": "3762fc614a0e955e71d4941c0eb9b284b9eb5aac409eb78b572a5ec3efd19176"
+          "sha256": "59d06fcfb578906720f2beaf7158cb117fce8f8919a877e89db194193d340249",
+          "offset": 469762048
         },
         {
           "name": "transfer-II-payload.zip.003-016",
           "size": 33554432,
-          "sha256": "65d742a6cb28b68cb6ec1b5581b1d5037f0923e57b7fa742fa8b44b977e1ab30"
+          "sha256": "201a108970e295a2657a2336dcbafa1fe913d15d5db3a22ba0f89909dac02b71",
+          "offset": 503316480
         },
         {
           "name": "transfer-II-payload.zip.003-017",
           "size": 33554432,
-          "sha256": "b008ebabfe5a643e2ae3f0339b724e2ebcda0c4f83296687ed38a50691627d79"
+          "sha256": "2a9d5a8a92166a818b29698c912735dfbd2ed9889a04530408d1d1b5e626bcd9",
+          "offset": 536870912
         },
         {
           "name": "transfer-II-payload.zip.003-018",
           "size": 33554432,
-          "sha256": "f7df3f3f01d54026f4509bbd27796a347997670cac8fff55465facf54441a6f4"
+          "sha256": "25448e5309d9d4b33056f40a8b603874a46b208f8c30acf93ff84faf5eadabb0",
+          "offset": 570425344
         },
         {
           "name": "transfer-II-payload.zip.003-019",
           "size": 33554432,
-          "sha256": "032bca670f8c2b8596d2399714c8a32fd90050de854c53672c49a9f8004cee3b"
+          "sha256": "4de6459fa23d07a9ff9d779eb6ac575b0eea47cf9c2ec89376edc2fb49b5e91a",
+          "offset": 603979776
         },
         {
           "name": "transfer-II-payload.zip.003-020",
           "size": 33554432,
-          "sha256": "a4e730b348712b6316c80cd20882bf397758716ed3109ede41f67b4d6fc74d23"
+          "sha256": "87bc36c4f529a120712cba55e3c63ef2f5d33bdc05c8ace45ed938ad697bc71e",
+          "offset": 637534208
         },
         {
           "name": "transfer-II-payload.zip.003-021",
           "size": 33554432,
-          "sha256": "7186feafd204eda232206eaecfb6abb9618679fb16b127eb2eebb021c1da2f99"
+          "sha256": "44e024a73454f5f534b479f023f677709fe9c8ab8787eb930ebb48280ce11f40",
+          "offset": 671088640
         },
         {
           "name": "transfer-II-payload.zip.003-022",
           "size": 33554432,
-          "sha256": "78b87eeafcfbcaacedf357ee48870eba30bd52d50020cac4ff421c42b3f05110"
+          "sha256": "f121a772ad8c2085d0817bb53b2919827e04a23214b964b6e77560b144b1d220",
+          "offset": 704643072
         },
         {
           "name": "transfer-II-payload.zip.003-023",
           "size": 33554432,
-          "sha256": "d26adbb0e732a9567aa1df1cb02e94168cb4c84472abed207559fa06ec68bfe5"
+          "sha256": "6749eb5942d452a66d94600d4f9c7163af872110c39d20cc49c1e83bd9e013d7",
+          "offset": 738197504
         },
         {
           "name": "transfer-II-payload.zip.003-024",
           "size": 33554432,
-          "sha256": "bb7807e9ba49cae3a8ed8d8757cf8f295236380edebdf03b7dec7db802a3018f"
+          "sha256": "85749b76fb448e2bb0a39d6bbb80abd82a895c80f92fe4de0b2d4f33d8dccb99",
+          "offset": 771751936
         },
         {
           "name": "transfer-II-payload.zip.003-025",
           "size": 33554432,
-          "sha256": "be8bffb19ab16b8a2bba0bcd672fba817bef937db5989837e60e883d5aec64a3"
+          "sha256": "258973877dc3d937f95ba2d94f6d556cbca946608c3ae5a1e08a27a615524420",
+          "offset": 805306368
         },
         {
           "name": "transfer-II-payload.zip.003-026",
           "size": 33554432,
-          "sha256": "859dbe264d83d1f007de757d12afa9aafa65375e09c8e6b437e0f9ab7856add7"
+          "sha256": "a38b8cb24ba9c06df92dea7f499b68cb238432fcf892a26778b57a5fa8397ff4",
+          "offset": 838860800
         },
         {
           "name": "transfer-II-payload.zip.003-027",
           "size": 33554432,
-          "sha256": "15f772a911abbf49aabefafac50e345719504a02b57397ffc10fa9812e40d822"
+          "sha256": "6135979249073a166f05174214f0ba7cfed2d5915fca2a662640077c1a6ff07f",
+          "offset": 872415232
         },
         {
           "name": "transfer-II-payload.zip.003-028",
           "size": 33554432,
-          "sha256": "cbbd8a4435e53128c5d852211f6a7b33ebe9ddf4fd161e86bacb5413dd787ea1"
+          "sha256": "69e7c32822feddd2ad033f4f17a14d7e44b20acfa51e4262f7c6c5989adcbcb8",
+          "offset": 905969664
         },
         {
           "name": "transfer-II-payload.zip.003-029",
           "size": 33554432,
-          "sha256": "a3d4774d722fda876df6e3aa67bbf03f9e29403b8d6a4c087f6847d8c248ffde"
+          "sha256": "13547ae6bede430d8e3f173def7af92df477afa6362f82f03b6cc5a8928034fb",
+          "offset": 939524096
         },
         {
           "name": "transfer-II-payload.zip.003-030",
           "size": 33554432,
-          "sha256": "e6526060d43c7d4d930e7a4d1ed56e6f2825c17b8c83728182a6bdf0f48fe1bd"
+          "sha256": "7c68c17f98530e6549108185c959c7211c5c2b616cdb3253929f37fd848c40cd",
+          "offset": 973078528
         },
         {
           "name": "transfer-II-payload.zip.003-031",
           "size": 33554432,
-          "sha256": "b5751df69e53d0aee50c36e93a3fd5cddbe5de63e9dbf0f6d5a3435420e40593"
+          "sha256": "b271fd1fa35ba0d8c7c75117b1361cb2bc1ec848bc2281f3c6651ac6c893f3c5",
+          "offset": 1006632960
         },
         {
           "name": "transfer-II-payload.zip.003-032",
           "size": 33554432,
-          "sha256": "d2871bf80c4edb83a860028a95f78b56ba08c5a08aec4d9752c1ae9dae3b768a"
+          "sha256": "aa1b25fb08b071d5a202fb6958626a128434493d49b5871cc0cf6e2df5402009",
+          "offset": 1040187392
         },
         {
           "name": "transfer-II-payload.zip.003-033",
           "size": 33554432,
-          "sha256": "14f48c0d4f8d8a875dc506ef018bc8b3ce138af1d66fbcafd2fe27752324be11"
+          "sha256": "6937e74896f776f4b87dbec4b23cba5b71b4fe94b22264e95ee2ee29121ce01a",
+          "offset": 1073741824
         },
         {
           "name": "transfer-II-payload.zip.003-034",
           "size": 33554432,
-          "sha256": "95d3552ea97dedd1fd82b0a418da6836d5e7fdfe1ea49923f9edec7c32e3234e"
+          "sha256": "c6f23857c3c9eb840006f5e6fb5cffc364e8bc15500d00720211fff94014692e",
+          "offset": 1107296256
         },
         {
           "name": "transfer-II-payload.zip.003-035",
           "size": 33554432,
-          "sha256": "d80b9c31388a2b33f8b7c3ddf91248fffae4859e25c070b96fdb0d503649e851"
+          "sha256": "6a4e17fb878c233f275f7e738db5107cea9d928defa001563240e9992606066a",
+          "offset": 1140850688
         },
         {
           "name": "transfer-II-payload.zip.003-036",
           "size": 33554432,
-          "sha256": "3517eee0f249cf4b8c6145d3bd31ea264124e05ac9eeec6e96b224e950d6e9b1"
+          "sha256": "f048b7202bcab29f1ab25868102be0b02c6b9766e2e3b6246c518bea813250da",
+          "offset": 1174405120
         },
         {
           "name": "transfer-II-payload.zip.003-037",
           "size": 33554432,
-          "sha256": "f1f63fb4a39791496178c25827e4e2af209a2c196fa2750278121bffe2808716"
+          "sha256": "923f33a2f855b92852335d0682bfe6e469b9210439625eb4024647039ae5aa19",
+          "offset": 1207959552
         },
         {
           "name": "transfer-II-payload.zip.003-038",
           "size": 33554432,
-          "sha256": "71980f61efb59ba3de45b56dc74e2ef7438625996dcc779d26e82ea858bfdbe6"
+          "sha256": "a82657a3871b429cbda58d74827553e466e4731fb6d3ee61c5e8f7a28c2a01eb",
+          "offset": 1241513984
         },
         {
           "name": "transfer-II-payload.zip.003-039",
           "size": 33554432,
-          "sha256": "dc01d1cb866179681d65acda7489af170773b0a203ba7b7e87ca9f482487ff33"
+          "sha256": "b37eada27a0f00d36cb14aadde847851a90a448edb6b5240cff9e22dc299fd14",
+          "offset": 1275068416
         },
         {
           "name": "transfer-II-payload.zip.003-040",
           "size": 33554432,
-          "sha256": "920761aed05bd6fa80543fa996e3223fc5c991a13d3fcac055231bf101a18a0b"
+          "sha256": "954cc8743d0724ba246d9600b6b8ff90fb27c72be0f3ad81f99e0087ce81a682",
+          "offset": 1308622848
         },
         {
           "name": "transfer-II-payload.zip.003-041",
           "size": 33554432,
-          "sha256": "73ebcb9a712b9f20dd2d14b41dd119986493801ea4e52a37e16b57ce098d31a4"
+          "sha256": "cf962a899c1a567520932d307f48d2c8769ed17a8c11cd5c0c87a8a22c53b6e0",
+          "offset": 1342177280
         },
         {
           "name": "transfer-II-payload.zip.003-042",
           "size": 33554432,
-          "sha256": "2e4d6dd2214d13a916029f4a2971c786b20254e856da23b971c9ea7197bdbf02"
+          "sha256": "6fe0b4ec4ff78fc61e0724c59ae800668857f147ad0463d7b42c51d1f13342ed",
+          "offset": 1375731712
         },
         {
           "name": "transfer-II-payload.zip.003-043",
           "size": 33554432,
-          "sha256": "fd08988dc92afe0e532cc605815fa35066ab8be9746f867c504da0d62ffe9e54"
+          "sha256": "31fafe06187e3eebe883e75984db04188a5fec49ed32fc46775e76695ed93aed",
+          "offset": 1409286144
         },
         {
           "name": "transfer-II-payload.zip.003-044",
           "size": 33554432,
-          "sha256": "fb7c9973efd55cba77c154032d864758953eb1cea5e53f0ed7f88f394a812d45"
+          "sha256": "b0a4a21950a7dea129cf3d99855b831fe028b8049702a572e3f4b0ba00f89a96",
+          "offset": 1442840576
         },
         {
           "name": "transfer-II-payload.zip.003-045",
           "size": 33554432,
-          "sha256": "2123f6760ee66378c3159dad6cc7f16e6aed7cf514c419d52c9e9086b810668e"
+          "sha256": "5921f430f85d7fee1b185ecd54cf59a64bdf1aa8135fd9f8380fd24444d1bc19",
+          "offset": 1476395008
         },
         {
           "name": "transfer-II-payload.zip.003-046",
           "size": 33554432,
-          "sha256": "96606ed5ef6f427e4b2199f03d23a3a2ad67e0a90bfb76d44ea5c1fe7051b2f2"
+          "sha256": "f1f6b07961b4d842cf222de3ae5d9b1a6b3a2cab3ad53214835dd8c7b8129d55",
+          "offset": 1509949440
         },
         {
           "name": "transfer-II-payload.zip.003-047",
           "size": 33554432,
-          "sha256": "a167756bfee2f4c9166ea28e0c5f49d5427c123474bd2f5397c568cd5b299d03"
+          "sha256": "174074a8ed1333912680caefc510a82d749c2e612e9bfea762b492f1bd0fb671",
+          "offset": 1543503872
         },
         {
           "name": "transfer-II-payload.zip.003-048",
           "size": 33554432,
-          "sha256": "24f2d3c9ade9c79f6c95b3b372b5a9c5b3e8de0073a3ede8349ecab3102c3eb1"
+          "sha256": "76be9a5d11b2dd7092b845f7498b3b5da468f8320c3128d8fc47ff68aad71830",
+          "offset": 1577058304
         }
       ]
     },
     {
       "name": "II-payload.zip.004",
       "size": 1610612736,
-      "sha256": "22e9d5fdede13d041f06323f1707c1abdc4660a16e68ce58c543dc4c92b9e35c",
+      "sha256": "9fcfe3a7f1e0c7945842bacd85e38847bf4f53b64d5ac878abdb474a2a0197e7",
       "blocks": [
         {
           "name": "transfer-II-payload.zip.004-001",
           "size": 33554432,
-          "sha256": "d87c4edce633713aa32ea063563c6fdc6f80e8d1d839ff80014903d03b158259"
+          "sha256": "9ce9faa71f490c18118edac1ee4771a54b9a8d852de82893bbba789af774ec40",
+          "offset": 0
         },
         {
           "name": "transfer-II-payload.zip.004-002",
           "size": 33554432,
-          "sha256": "75457ee36bf23b9e3fc2e363909fd97c83d89aaa17392e4613821ea2f240833c"
+          "sha256": "56b2ad2c72d363b8eceddd44e6684edc7b4c836e748dd7000817a53c1df81eee",
+          "offset": 33554432
         },
         {
           "name": "transfer-II-payload.zip.004-003",
           "size": 33554432,
-          "sha256": "a576b3c1ef7e3205ce5edbb18ab4f3c3cb1cc227deed81c51b434454de196892"
+          "sha256": "2066f2fcd4ac55345de44f626ca84b6d8035f306feeadf59f9f987e140feac2a",
+          "offset": 67108864
         },
         {
           "name": "transfer-II-payload.zip.004-004",
           "size": 33554432,
-          "sha256": "dc8ed8e29e78695710357f17c4c47e08e94ca9da4d5570d337ef25a84e95801f"
+          "sha256": "8052b5af893db14c480fd6b9e8d6c34bf07d403bc3598278db87a4878a1f90db",
+          "offset": 100663296
         },
         {
           "name": "transfer-II-payload.zip.004-005",
           "size": 33554432,
-          "sha256": "377e8a86755df6d6b82d6f782f0f165b22f5a3d29e5fc298058bb5dab7f034f4"
+          "sha256": "2a8ef7567dcc70f6f6b461aa9a368f0f33420876e4de651b5963946743d49495",
+          "offset": 134217728
         },
         {
           "name": "transfer-II-payload.zip.004-006",
           "size": 33554432,
-          "sha256": "42260dd43e6ef3e7be987365304730340c79fe73fca8c274c41cd2eb3c1ff419"
+          "sha256": "d506afbadd493dbc0fb2909da1e3d9a84b2f7308b2186618b1a9696e83b6f416",
+          "offset": 167772160
         },
         {
           "name": "transfer-II-payload.zip.004-007",
           "size": 33554432,
-          "sha256": "b61c58ad115df9587830c08687bfd6af105d22b3df061a24c5f53cb7f6f1d96d"
+          "sha256": "3a5955e98d5e2204b1d3b8ba732cdc7434040f30dce7c26f382f64a9701022f4",
+          "offset": 201326592
         },
         {
           "name": "transfer-II-payload.zip.004-008",
           "size": 33554432,
-          "sha256": "ee31177cd2e4c9a793d33827295420107ffbf1542e77bc78e14a2281c849ec7d"
+          "sha256": "6e5b6411e00f63d88901e16c48396ad9caf9ee082ee4f0e1e5f557c5c93a5e35",
+          "offset": 234881024
         },
         {
           "name": "transfer-II-payload.zip.004-009",
           "size": 33554432,
-          "sha256": "af96e7ce0e2f3f9ab13da9762b20f375f6df9dce0f8c35beeac78026ffc6799a"
+          "sha256": "3a98439708fdfc6b78cdc9194ee70341cb20fdf082bb4631a66f708999f61dce",
+          "offset": 268435456
         },
         {
           "name": "transfer-II-payload.zip.004-010",
           "size": 33554432,
-          "sha256": "0cd9637fd85fa183fc7eb71098fff643b7be8ad1a0c1d89882247e9df9f6b202"
+          "sha256": "b7140bf20ef189aa1b01e418d44c469af90de0383ca252f38647add574417e43",
+          "offset": 301989888
         },
         {
           "name": "transfer-II-payload.zip.004-011",
           "size": 33554432,
-          "sha256": "b3319848cbe4fe744700e56a836ecfa992baab68752ee534e0cc3623e6a99835"
+          "sha256": "3c6144e97ee7712f732d84db546a9f0b9e32da2f1754fe7094134b195b76f39e",
+          "offset": 335544320
         },
         {
           "name": "transfer-II-payload.zip.004-012",
           "size": 33554432,
-          "sha256": "bb303fe9aac16b67c02b5d856f457c00f998a441c9705d2dff7431f67569e037"
+          "sha256": "87c386b8d6a8d968e036b8c6906e9258fcd1540e28053901709f150990a02872",
+          "offset": 369098752
         },
         {
           "name": "transfer-II-payload.zip.004-013",
           "size": 33554432,
-          "sha256": "5175e62cddb1c9e1eed5085939d7bb0c2be048dd6e994405e0eb9540287d25bc"
+          "sha256": "e06033b8f3be6e75103ad4123c595f8f3c6e1905d16156a211c90b088acc873a",
+          "offset": 402653184
         },
         {
           "name": "transfer-II-payload.zip.004-014",
           "size": 33554432,
-          "sha256": "78bf9ff07b6efa90d0cb703f3adb4b5779aa0c4c972b7b0066826da47f4733c5"
+          "sha256": "062c40eb3a64c0c42a603f0dd132c9edb418cfb4da32a9403a2ab5d6ca577bf6",
+          "offset": 436207616
         },
         {
           "name": "transfer-II-payload.zip.004-015",
           "size": 33554432,
-          "sha256": "da5c68e4b424a74c96ee2c479713294a46cd51e918892dbac709218b876c8885"
+          "sha256": "0c472070fc3ffaaf5c440045e47942e88fb0f2ceeb69464be16bf8dc5c4d1f16",
+          "offset": 469762048
         },
         {
           "name": "transfer-II-payload.zip.004-016",
           "size": 33554432,
-          "sha256": "845123967769291a1e22e3598bf064a74be0b2b3ccd2bf8ca23863dc80849f5a"
+          "sha256": "af2c874d8914e61bf8df8335fdfce23a6d69dd918a2c99993c43ddddef2fba5f",
+          "offset": 503316480
         },
         {
           "name": "transfer-II-payload.zip.004-017",
           "size": 33554432,
-          "sha256": "183356ef67c722ce603384c47c2b7fa2fa55f509d84736183ff16310321baf8f"
+          "sha256": "e30e1b2678b6c34f1dc95fcf022f3ff5bcf1aa08e0026b2495676187879f4daa",
+          "offset": 536870912
         },
         {
           "name": "transfer-II-payload.zip.004-018",
           "size": 33554432,
-          "sha256": "d005437103e592411e7047315d7bcc19fc0549154ab0e2ce43f7764fbda09987"
+          "sha256": "339505dea63072a25e54ef2894d4bea08841f7f3aea1d961d17e882038724c72",
+          "offset": 570425344
         },
         {
           "name": "transfer-II-payload.zip.004-019",
           "size": 33554432,
-          "sha256": "f1cd74565420822b54f635013ec830d3955c5c17f65898aa8d525859b25da506"
+          "sha256": "3918fe734ac434c0e8013e57e1fab0a8e709fc80f07b56bb180f03f9c8c18c02",
+          "offset": 603979776
         },
         {
           "name": "transfer-II-payload.zip.004-020",
           "size": 33554432,
-          "sha256": "95acfb880b4b5dd0e21d2cda18b123352d1c1e26b2133ef17b81f8ce9a938f31"
+          "sha256": "6a7e43f7f638dfb2a16e2a4246fc3dc53b4f2ad8286c0566e052ec0ae8cfdcf2",
+          "offset": 637534208
         },
         {
           "name": "transfer-II-payload.zip.004-021",
           "size": 33554432,
-          "sha256": "3c2bb5df15f08354073e591fc5a73c48620203e343b1715759b69da5e10da442"
+          "sha256": "e42d46476fe8342ef7726c74a76af9de350f8b46ed140ed3a10359721e0374cf",
+          "offset": 671088640
         },
         {
           "name": "transfer-II-payload.zip.004-022",
           "size": 33554432,
-          "sha256": "c4405bb9365ea0176b495cac2dee0670bf76c3f3353a4624bc5e63260e33ae17"
+          "sha256": "743cff8b3fb8699b46beb67f9be4000afa6a3dd8679389630943f53cb1e90b46",
+          "offset": 704643072
         },
         {
           "name": "transfer-II-payload.zip.004-023",
           "size": 33554432,
-          "sha256": "bbff0f427d6f7fad84134a6a8cb299017e80c2d5cf29f6aeb47c517fab1a3a1b"
+          "sha256": "009083ebd3dd2422444cfe710adb0ed64253aee784f7fe7a6c365cab7d8f2cf5",
+          "offset": 738197504
         },
         {
           "name": "transfer-II-payload.zip.004-024",
           "size": 33554432,
-          "sha256": "9ece1ca9ee6e7ad6f6a95cbd3341302a710ebfe40b4a8e7a837bf8b2b9b2c8af"
+          "sha256": "d5673d5e08bd36b3c394731cd14974bcd12ae70ba103787218835760aa9c2c7a",
+          "offset": 771751936
         },
         {
           "name": "transfer-II-payload.zip.004-025",
           "size": 33554432,
-          "sha256": "62f39c0f8d84ec51d2df175bb643a61f27093ed602f69b5465234d9d592c51b3"
+          "sha256": "cf8a947a359ae4c4630a65d3e8c11530cb6841bc81413a584dff0a21d0a823c2",
+          "offset": 805306368
         },
         {
           "name": "transfer-II-payload.zip.004-026",
           "size": 33554432,
-          "sha256": "e02b6b464bc5b589c9a7325802783a4eb492222339680234be6d8ddd4d0dd58e"
+          "sha256": "1f01bf3c0800190ee4a609ce14553f5131f9fb858f915ec066af13952144bead",
+          "offset": 838860800
         },
         {
           "name": "transfer-II-payload.zip.004-027",
           "size": 33554432,
-          "sha256": "5a1431ebb7301c80d686758dfc7654396b8df95c345afdb610be33dc74eae2c1"
+          "sha256": "04d4bf7bf5b5ea8b261a4d4cd775b60aedae857928ce30f1ceb63bed435de0bd",
+          "offset": 872415232
         },
         {
           "name": "transfer-II-payload.zip.004-028",
           "size": 33554432,
-          "sha256": "881c51a2e529bad22818392c9b5081afc383fed3e9d64c8c09dc99dc4d6659fa"
+          "sha256": "69d25fd3db6fcbb69daccfaede6e2e5592c1cccf65483a09d5001ab1071c1855",
+          "offset": 905969664
         },
         {
           "name": "transfer-II-payload.zip.004-029",
           "size": 33554432,
-          "sha256": "9ea87c8726026d4da414dec50c928c920c5d6a38bc31b955fe1c596d875b9c81"
+          "sha256": "ce4043611ca42639c83c2541f6d2ac3d34c1d5c1438c6db814016919a2fd6ed6",
+          "offset": 939524096
         },
         {
           "name": "transfer-II-payload.zip.004-030",
           "size": 33554432,
-          "sha256": "95373bdca133608695109ee9f6c26fd653c68d0898355d8469a4ceaeff908fed"
+          "sha256": "a7cecdd2bfb5c5a48ac6f845922da126a9b06077c246813ea8a8af1e15c6d89a",
+          "offset": 973078528
         },
         {
           "name": "transfer-II-payload.zip.004-031",
           "size": 33554432,
-          "sha256": "89bb575f47ecfad49a601180273080ec593731c48bc7649e17feb6e689d60a41"
+          "sha256": "c3ba7c6e59b3019675157ca03fde716a626d021dcf38474b9f3a5d5fd5237171",
+          "offset": 1006632960
         },
         {
           "name": "transfer-II-payload.zip.004-032",
           "size": 33554432,
-          "sha256": "c73a62b61f9eaebec4c27acc9d32c35b7141e632c26b826b0a7536a31a8b2c2b"
+          "sha256": "c87260b33ca8f0dc97b0607f62f2c74c39725407a42d3bb4ce5a951d03518d35",
+          "offset": 1040187392
         },
         {
           "name": "transfer-II-payload.zip.004-033",
           "size": 33554432,
-          "sha256": "b83ca3c0a6fc0b065a8aab00670ee7fafd56d636859a0ab31877406823b841f2"
+          "sha256": "9290f5afb301098ef156c639c572913bad7df60539c59ba1c01f95a60243baf4",
+          "offset": 1073741824
         },
         {
           "name": "transfer-II-payload.zip.004-034",
           "size": 33554432,
-          "sha256": "8bbfeb92e4db33a0ac22a064a81706e266c68764658bb873b10ddf4993dd9e0e"
+          "sha256": "e7acda07c19d0cf40732aa556c3d873a5a5b5316c9b023c28810e046fe865b48",
+          "offset": 1107296256
         },
         {
           "name": "transfer-II-payload.zip.004-035",
           "size": 33554432,
-          "sha256": "498d110ef8a8ed5b7e0b0fac237a4005731afb57bef25fb37103bcdcc1a1d624"
+          "sha256": "e616cc560d2243bc4d769c9c76f025a19db970b32a8b3d9173e63599ca95d3b6",
+          "offset": 1140850688
         },
         {
           "name": "transfer-II-payload.zip.004-036",
           "size": 33554432,
-          "sha256": "9eb14c861b75404db35dbe17cd9f41bf4b41c6d00bbbbb40b187780f867c9f34"
+          "sha256": "5e195068349aba7b6a2b76621d7fec63682a01825862f6e2c29c74aa02ba7013",
+          "offset": 1174405120
         },
         {
           "name": "transfer-II-payload.zip.004-037",
           "size": 33554432,
-          "sha256": "acd2acc67a5b9de2239b140e269291e2a114d8dfdc550e77b0e47c369819433d"
+          "sha256": "645baa6109e4e4ce950c4bb7277c17bacfea2b5e361853a10706b40d08d917b2",
+          "offset": 1207959552
         },
         {
           "name": "transfer-II-payload.zip.004-038",
           "size": 33554432,
-          "sha256": "8e61dbaef040669be5a339d3ee23b73463987db82cac32a2ed9c5e9b0f73329a"
+          "sha256": "d41c3e4a3fb89532633f3cc18677ae8dd9987cf3b7f00415b34093193661eb36",
+          "offset": 1241513984
         },
         {
           "name": "transfer-II-payload.zip.004-039",
           "size": 33554432,
-          "sha256": "bb5effeff08a314fbdec97822ca9250e96c2cf6a07171950112a7232521968c9"
+          "sha256": "2ba3ea43069eb147423a4aa5d3aa3701d9e29ef1fd5ce80496f0e86accb22c58",
+          "offset": 1275068416
         },
         {
           "name": "transfer-II-payload.zip.004-040",
           "size": 33554432,
-          "sha256": "e45ce88aeee70e6bc32e761da83c8210f27c46e27974c82f65277664a5cf5ae7"
+          "sha256": "62fe95e888d2166880b3de2f8a3a47a2e2ba11ca48ac2bf8dd1ef6f103890d01",
+          "offset": 1308622848
         },
         {
           "name": "transfer-II-payload.zip.004-041",
           "size": 33554432,
-          "sha256": "2dae986d8a66c9e1e1b273fdb6060aaf0b699de7d14285f072911bd01c68f8d4"
+          "sha256": "361f8cf0ccd27e650699f7b11eb0b70577b7f635d76b4d65494756963141be2c",
+          "offset": 1342177280
         },
         {
           "name": "transfer-II-payload.zip.004-042",
           "size": 33554432,
-          "sha256": "352def4d754652a07f01ffcd534c4e2fc2187dfa0567a0d35f49f20e6352b011"
+          "sha256": "29b7da5d7c7828fe75cd87fa66ae3ad239eedbf9db236a8ca4557ed3abd5c006",
+          "offset": 1375731712
         },
         {
           "name": "transfer-II-payload.zip.004-043",
           "size": 33554432,
-          "sha256": "a11caec86f71d89f102b38f7ba195c130e45f62227fb1ebb5025f9285afb4a8e"
+          "sha256": "ecb0a6993be6e30c0fca6a0c1394ae4ff206dc68b6186f37c52f2aa7b7d17b56",
+          "offset": 1409286144
         },
         {
           "name": "transfer-II-payload.zip.004-044",
           "size": 33554432,
-          "sha256": "9c15b8bd33d367eb8842b0e80a234be8cc0f3e646bd108ce718a20a7302425b8"
+          "sha256": "fa95e1bd8f76c4058a48bebe26cda99f96cd70dc38454c252b74693409496563",
+          "offset": 1442840576
         },
         {
           "name": "transfer-II-payload.zip.004-045",
           "size": 33554432,
-          "sha256": "91466e633ad5af7c1443271161e0b6c4197ab238e0c4e2b37e085c8dc081c872"
+          "sha256": "4de77e68cd102235914b80db8af4892dd0ca2f7641bdf37b4d09bc759d4c0b29",
+          "offset": 1476395008
         },
         {
           "name": "transfer-II-payload.zip.004-046",
           "size": 33554432,
-          "sha256": "4aaddda1b2dfbc98aae0e7c3fede2f3109bdac9b66d2f4345c7e11862ac2be1b"
+          "sha256": "fdec9d1fcab156eb3eeb64193f87d209f2596c0765fea2d534c15aab58b2f418",
+          "offset": 1509949440
         },
         {
           "name": "transfer-II-payload.zip.004-047",
           "size": 33554432,
-          "sha256": "17ba5a5179255e3104ffd37e317649667404d164d24a9262e6f5b33c4c2bf024"
+          "sha256": "03c803cce7c95caeb943c4cb3e0672add8f69bb29974840d1cbe1c59f81d419f",
+          "offset": 1543503872
         },
         {
           "name": "transfer-II-payload.zip.004-048",
           "size": 33554432,
-          "sha256": "2c3f0cefc70d8a6d0eb0050d0c59ea0dad38c862ef0fd81289504b30b1e8d832"
+          "sha256": "9ce5560ab7be5950d4112f51c5187e11c4ddb0e37c3a1f057196d5bc7a3647dd",
+          "offset": 1577058304
         }
       ]
     },
     {
       "name": "II-payload.zip.005",
-      "size": 712290079,
-      "sha256": "fa0932ccb49542d676baf51674acc8ffe59d7fae95b02d1102a7722f4d5f50da",
+      "size": 1610612736,
+      "sha256": "c7e173cbf4df8df31f6abfbab4bb8c334e48b498c82d794c8cd5cfd8d24f3d2f",
       "blocks": [
         {
           "name": "transfer-II-payload.zip.005-001",
           "size": 33554432,
-          "sha256": "bf04a1eec9084e5e6fc6ae09e790fbc0663cafe3fe2c2e85c5339875e91cef58"
+          "sha256": "d49ef0acb94d77510e7d6a4cc7442b1fb96106b6939111cfa377f46b0ff3337c",
+          "offset": 0
         },
         {
           "name": "transfer-II-payload.zip.005-002",
           "size": 33554432,
-          "sha256": "bbaabc05a4b03c3760c5f83e845115e37344c302d4ae5a3dc4b356870ae01adc"
+          "sha256": "e5d818451846197679fd9e82380813ac5d741fe02b356b09dcb5a3b8b7fa7322",
+          "offset": 33554432
         },
         {
           "name": "transfer-II-payload.zip.005-003",
           "size": 33554432,
-          "sha256": "73afdf53cd86a6d027e328aa0b12a0649fb60c80f3268b14e8964ea7b93d7217"
+          "sha256": "65597af9de181fa618a273b9f261178970232b496a35548ba41eb417df2aec56",
+          "offset": 67108864
         },
         {
           "name": "transfer-II-payload.zip.005-004",
           "size": 33554432,
-          "sha256": "9ab03dde6bc5f23aad7039e776bc25572ca65fac5d0e4f6859d55ce610ee9c18"
+          "sha256": "09dfe80da032c296e5fe086eaddfd9a91d743c5009fa06b3874cafbdf231d49e",
+          "offset": 100663296
         },
         {
           "name": "transfer-II-payload.zip.005-005",
           "size": 33554432,
-          "sha256": "a51ceaf997483f2632723a0f801ca5841d2a9bea8afe1fa89904467bd45f3a5a"
+          "sha256": "dec1b66e01fb1e23578923c88d991d3d34c3ccfe67490d24c8b9938550717819",
+          "offset": 134217728
         },
         {
           "name": "transfer-II-payload.zip.005-006",
           "size": 33554432,
-          "sha256": "7a764c8a2d425eebe0e9b48daa8241cc260ab5fbb4ecd30bf0126a59797d4a45"
+          "sha256": "7aa99b6f2dccdc11bd39fa79dec093d4af8bc0857c789973c02389f8de4a8d9e",
+          "offset": 167772160
         },
         {
           "name": "transfer-II-payload.zip.005-007",
           "size": 33554432,
-          "sha256": "112d271a4eee36166e29b6695b3f212e88ad535a3300a3354002ae94bbfcfc59"
+          "sha256": "7e3296d4b68b866c2c8a325ebcc966acc142890e2b105bdf6adf13588d82637f",
+          "offset": 201326592
         },
         {
           "name": "transfer-II-payload.zip.005-008",
           "size": 33554432,
-          "sha256": "5805cca36c375c8b73fd0eb7879adaaf694b4f30525bf8fb0fb506fc300986be"
+          "sha256": "8b6ce1dea501cd91c80ad11b17985e687c9abb57aa05b6b90bc35ddffa33abc5",
+          "offset": 234881024
         },
         {
           "name": "transfer-II-payload.zip.005-009",
           "size": 33554432,
-          "sha256": "125e29d44f3229d549af4db4918a6474fc888c2ad4cc1f4d36b15da62908a84f"
+          "sha256": "08f2d8c633be5e9d27458356fe3e34bb946999cb5c5021a3c09e85663a5a3b99",
+          "offset": 268435456
         },
         {
           "name": "transfer-II-payload.zip.005-010",
           "size": 33554432,
-          "sha256": "45cdc1a962bbd206293c0be0c40e443b8f3993f5ca6d2c5c9d4682738e7a893c"
+          "sha256": "c32aa8bb54ff77a6cc8f258da08ad831af73e9901b87cb29705bded9ccc5e521",
+          "offset": 301989888
         },
         {
           "name": "transfer-II-payload.zip.005-011",
           "size": 33554432,
-          "sha256": "80e5fda6e20896750f566837b361e34599aca7b76d29f9af40726dd612a829bc"
+          "sha256": "f79366d46ed961d8a5f56ac92f0a69efa502874390a3691eb2e99d888f2f787e",
+          "offset": 335544320
         },
         {
           "name": "transfer-II-payload.zip.005-012",
           "size": 33554432,
-          "sha256": "73fb33351d202fff323683c1b6a946840693c1a54be5bd38e10228024dc926a9"
+          "sha256": "83b44cdeb32a520e300cf8d810cc19dd9b814605f956063664a348cf795143f7",
+          "offset": 369098752
         },
         {
           "name": "transfer-II-payload.zip.005-013",
           "size": 33554432,
-          "sha256": "a54ed39738e540bd35f0f246c13bbc2c635b30b0bf6df2171e0e646b52ad7514"
+          "sha256": "3fa5ea1abadc3b9c1738cb261f19ce8aa7b0cd1b95eb10586a524f9f8bb803b2",
+          "offset": 402653184
         },
         {
           "name": "transfer-II-payload.zip.005-014",
           "size": 33554432,
-          "sha256": "fdc8ce91fac898a90610b33909e108983f3507740fb958acc13d822c14904944"
+          "sha256": "be8a351c8d71b28aa8f8a70027e94f446d4445a4802f06142fbd545329a2c3b8",
+          "offset": 436207616
         },
         {
           "name": "transfer-II-payload.zip.005-015",
           "size": 33554432,
-          "sha256": "67544ad9128c3749b2cfd7c96ebf1b4f8a351bff266a027f4aad4a8d83f7a2a8"
+          "sha256": "3ed18b17d6dea5586afc887db7a799f33fe5541914b3d972b15f87f325b5be60",
+          "offset": 469762048
         },
         {
           "name": "transfer-II-payload.zip.005-016",
           "size": 33554432,
-          "sha256": "7abde330d8153bf92b84fc0335f4195e83524c9a4c119eb172fdd729fc578c1a"
+          "sha256": "211418e4be741bf9275239d9b11faaa6948ebeef23d0de1dcae434d9598ed44d",
+          "offset": 503316480
         },
         {
           "name": "transfer-II-payload.zip.005-017",
           "size": 33554432,
-          "sha256": "746f7fe05d73ef9b878fad1f5dfab7ab8493aa027a4c9f62995d679b71bd34e8"
+          "sha256": "c3a64188838cbe44d76e742d174dd40d6a45bc81cc643d155cb0129e26aec415",
+          "offset": 536870912
         },
         {
           "name": "transfer-II-payload.zip.005-018",
           "size": 33554432,
-          "sha256": "cede4f520c21e6c1b3dfdb9c8a861373a8211f88bd72ca89016f4288d142c06a"
+          "sha256": "8de1c0f98f550ba7ba1c8c9a15cdf02328c404c960208e92ca4bde4c12f3b2e0",
+          "offset": 570425344
         },
         {
           "name": "transfer-II-payload.zip.005-019",
           "size": 33554432,
-          "sha256": "225d9dcb59df3ef8cc12233f90192c2a92cf78625faee18531b416b674a5115d"
+          "sha256": "b6b9dd3013212412f038cbfb97613c7f392cc9e255cd3528173c2fe966a8eccf",
+          "offset": 603979776
         },
         {
           "name": "transfer-II-payload.zip.005-020",
           "size": 33554432,
-          "sha256": "896a084964080c378002d9f4e36f211da3ba39750c9767e7aeaca7e4b1b57f80"
+          "sha256": "1be1ade63b7f24ef6ce737e746332e710adabb8f5059f276c1c3e5f878a39eab",
+          "offset": 637534208
         },
         {
           "name": "transfer-II-payload.zip.005-021",
           "size": 33554432,
-          "sha256": "d4b7b80b903da7b31ff6faeea8839ddca51d30dcf75985d921998bb592860343"
+          "sha256": "74a6ff63ce5be39994fe3bcafa1550524b3fbccdde82c91238ad50238672ed31",
+          "offset": 671088640
         },
         {
           "name": "transfer-II-payload.zip.005-022",
-          "size": 7647007,
-          "sha256": "84c7656bed64ee4dca3e5b0f92a8f15193244332b76a710efdb05ec49daab715"
+          "size": 33554432,
+          "sha256": "b44e7e851e87c91f12b7990325c799aaee260be78d909c1ccbb6e9d53d4b43e1",
+          "offset": 704643072
+        },
+        {
+          "name": "transfer-II-payload.zip.005-023",
+          "size": 33554432,
+          "sha256": "416486dd08afc38c0d9372df7a9d1a2cfccc78070febc896e7f714093eec9a02",
+          "offset": 738197504
+        },
+        {
+          "name": "transfer-II-payload.zip.005-024",
+          "size": 33554432,
+          "sha256": "11067ff088aafa8829d3d81d6162801649df9e377bda3bfde16a1d2d4d9d4e45",
+          "offset": 771751936
+        },
+        {
+          "name": "transfer-II-payload.zip.005-025",
+          "size": 33554432,
+          "sha256": "7689cf81339388b831988cadfdafd2e4e84e67df9f4cc34936841997ae482385",
+          "offset": 805306368
+        },
+        {
+          "name": "transfer-II-payload.zip.005-026",
+          "size": 33554432,
+          "sha256": "1207288e33c3b3d2bd5a29fd4db1d9c62f504b03dbcc0b0bfd42c62723fb3841",
+          "offset": 838860800
+        },
+        {
+          "name": "transfer-II-payload.zip.005-027",
+          "size": 33554432,
+          "sha256": "37ca0694ef05b37cb3ff030f93b5bb958fb9727f8e9456fb8419dbeedc780185",
+          "offset": 872415232
+        },
+        {
+          "name": "transfer-II-payload.zip.005-028",
+          "size": 33554432,
+          "sha256": "0f724e0130b4ceed2184afe472a58aa9f380821312cddbef989afcee53a7ed10",
+          "offset": 905969664
+        },
+        {
+          "name": "transfer-II-payload.zip.005-029",
+          "size": 33554432,
+          "sha256": "549a5e5f71af3364e90c55600e695b802c23411b50698e2538075a1fcacfa561",
+          "offset": 939524096
+        },
+        {
+          "name": "transfer-II-payload.zip.005-030",
+          "size": 33554432,
+          "sha256": "1c5f699a9b40efdb115d7cd3c74c4a5a3c4421d7c04db0fec1b6da2a0289b005",
+          "offset": 973078528
+        },
+        {
+          "name": "transfer-II-payload.zip.005-031",
+          "size": 33554432,
+          "sha256": "3391495939ed74dd9ba96f297c9c9996ecd79409fa03af25b0bdc88d8da8de0f",
+          "offset": 1006632960
+        },
+        {
+          "name": "transfer-II-payload.zip.005-032",
+          "size": 33554432,
+          "sha256": "d45d18eb7cd30c5ca08f9b888ce25bd0d4baaef5e1b9e931a19a1f694b546498",
+          "offset": 1040187392
+        },
+        {
+          "name": "transfer-II-payload.zip.005-033",
+          "size": 33554432,
+          "sha256": "0a22ce100925d2234dba2502f0d941482cfb58a95fde4e8414ebf2ccc17a520d",
+          "offset": 1073741824
+        },
+        {
+          "name": "transfer-II-payload.zip.005-034",
+          "size": 33554432,
+          "sha256": "7ffbdc6e591e6327cbae6fba37979475d368e973a40961b51522502bd184ba4b",
+          "offset": 1107296256
+        },
+        {
+          "name": "transfer-II-payload.zip.005-035",
+          "size": 33554432,
+          "sha256": "9e1bb192de65a00945a599175aec077e988ad5e6ceebd5ee927abf0b56f39a82",
+          "offset": 1140850688
+        },
+        {
+          "name": "transfer-II-payload.zip.005-036",
+          "size": 33554432,
+          "sha256": "b4399f0205a5c29d1b2d16117cb502ad7f5179dfbc1565dbbeaedb7ac6df05a3",
+          "offset": 1174405120
+        },
+        {
+          "name": "transfer-II-payload.zip.005-037",
+          "size": 33554432,
+          "sha256": "b47b7683b85535eb3b0c0abf77229fcf11f412248fa27eacf42bfe76a31aa882",
+          "offset": 1207959552
+        },
+        {
+          "name": "transfer-II-payload.zip.005-038",
+          "size": 33554432,
+          "sha256": "22b1d32c5359188cb764f09ede037fad9c79929e150249007fcc0c4b5f3d42ed",
+          "offset": 1241513984
+        },
+        {
+          "name": "transfer-II-payload.zip.005-039",
+          "size": 33554432,
+          "sha256": "ed55ce10d08bae96f1f58be0224aa12b3acab9e06854df61c5954048293d756e",
+          "offset": 1275068416
+        },
+        {
+          "name": "transfer-II-payload.zip.005-040",
+          "size": 33554432,
+          "sha256": "d8c79792c89b24218e7148c9e4a66e0a09de57e89a05fddd0edaf7f10add40f1",
+          "offset": 1308622848
+        },
+        {
+          "name": "transfer-II-payload.zip.005-041",
+          "size": 33554432,
+          "sha256": "7b962d3b2c65665c08ea610c547d16329104884c14d98a41e535e3bf65bb61fb",
+          "offset": 1342177280
+        },
+        {
+          "name": "transfer-II-payload.zip.005-042",
+          "size": 33554432,
+          "sha256": "26d0e5e53b31a6efa966ef7320d4b64e7304bd6b2dfd69427573231d5d434664",
+          "offset": 1375731712
+        },
+        {
+          "name": "transfer-II-payload.zip.005-043",
+          "size": 33554432,
+          "sha256": "5635f271e467ca40bdc3d1d88cbf8c3fdb556d80ead522cf58b692753c57d115",
+          "offset": 1409286144
+        },
+        {
+          "name": "transfer-II-payload.zip.005-044",
+          "size": 33554432,
+          "sha256": "263d521ff7cf0f6cbb7166aee63e3684c9be8c48fe2448e6110ff0b3c5f11094",
+          "offset": 1442840576
+        },
+        {
+          "name": "transfer-II-payload.zip.005-045",
+          "size": 33554432,
+          "sha256": "1a3907ba01927d74620b5a64fd0bb12f8a8e5d1edcaa0c7fb1a4333fece038fd",
+          "offset": 1476395008
+        },
+        {
+          "name": "transfer-II-payload.zip.005-046",
+          "size": 33554432,
+          "sha256": "81664736b14a26a0b8fd5c812971ac74a0afe9404d7e1607d81f8de6f93b079e",
+          "offset": 1509949440
+        },
+        {
+          "name": "transfer-II-payload.zip.005-047",
+          "size": 33554432,
+          "sha256": "1bcc0d3275d12f61ee714f313469cc5ec597377cf74568861eb57acf2a223bc8",
+          "offset": 1543503872
+        },
+        {
+          "name": "transfer-II-payload.zip.005-048",
+          "size": 33554432,
+          "sha256": "275d839c159822ac46925224b75d27714b6925cd1acc359e7034d0f085262e31",
+          "offset": 1577058304
+        }
+      ]
+    },
+    {
+      "name": "II-payload.zip.006",
+      "size": 1610612736,
+      "sha256": "a15d1d699dec74fe7ec0f710ede9f576940bae8ab1e3ec2e1e9e16e20bbb30f1",
+      "blocks": [
+        {
+          "name": "transfer-II-payload.zip.006-001",
+          "size": 33554432,
+          "sha256": "22394593e0c53eaecfb3b825b67bdaf83268ee9c6092c6c826a62d9f0987c7f9",
+          "offset": 0
+        },
+        {
+          "name": "transfer-II-payload.zip.006-002",
+          "size": 33554432,
+          "sha256": "ea947a7ba973b50eb66ad86a558cc4662fc163b68d8bcdd3db2e88b6a6dfb76c",
+          "offset": 33554432
+        },
+        {
+          "name": "transfer-II-payload.zip.006-003",
+          "size": 33554432,
+          "sha256": "7ef19f8b5622f355df1051afb6491073de5fc45a777df1eac9af78b072229e00",
+          "offset": 67108864
+        },
+        {
+          "name": "transfer-II-payload.zip.006-004",
+          "size": 33554432,
+          "sha256": "0918e948894f16c62792989b4dfbdf5d2fdd7ef82e2a2287e54228f7206d8a30",
+          "offset": 100663296
+        },
+        {
+          "name": "transfer-II-payload.zip.006-005",
+          "size": 33554432,
+          "sha256": "8d12d7f619b22e3be81fd8bd19663b436f18ab30db6c20694954a2d9662eaf8c",
+          "offset": 134217728
+        },
+        {
+          "name": "transfer-II-payload.zip.006-006",
+          "size": 33554432,
+          "sha256": "9b9e17df53bf1d93ea0c65aa0720808ce041331bcc53599a7d892781f1282b1d",
+          "offset": 167772160
+        },
+        {
+          "name": "transfer-II-payload.zip.006-007",
+          "size": 33554432,
+          "sha256": "06276c69a3dbaf7b885e6210417f580c65ff4b556eb95d86d726511056d4f7a8",
+          "offset": 201326592
+        },
+        {
+          "name": "transfer-II-payload.zip.006-008",
+          "size": 33554432,
+          "sha256": "f865d251368bec76ef1b5e29eb6697ba8ee422e459f6c929532daf236fe5b075",
+          "offset": 234881024
+        },
+        {
+          "name": "transfer-II-payload.zip.006-009",
+          "size": 33554432,
+          "sha256": "f32b9264ae61ae8a988a90930c0ab61370a050ce94ac51c4ccb894a71f69d11d",
+          "offset": 268435456
+        },
+        {
+          "name": "transfer-II-payload.zip.006-010",
+          "size": 33554432,
+          "sha256": "75cb50e516be125e2d4952168b0f9c0ce5fb5d1700d7e90781266d16eb7c4dde",
+          "offset": 301989888
+        },
+        {
+          "name": "transfer-II-payload.zip.006-011",
+          "size": 33554432,
+          "sha256": "83c38577362b4e5ed36a8b805d1a25c175e64eff2f2728a9340b28679c8a3d83",
+          "offset": 335544320
+        },
+        {
+          "name": "transfer-II-payload.zip.006-012",
+          "size": 33554432,
+          "sha256": "b2483724de5032b1f36dd248852e68bc4e96a95d0241f41fa70724263898dad8",
+          "offset": 369098752
+        },
+        {
+          "name": "transfer-II-payload.zip.006-013",
+          "size": 33554432,
+          "sha256": "49b2a5ce867cc5df4a9137c2ec87dd9fd6a96a2a88a061095dc4ccbb4b0e4954",
+          "offset": 402653184
+        },
+        {
+          "name": "transfer-II-payload.zip.006-014",
+          "size": 33554432,
+          "sha256": "99a193f225e1b4f2a5e4363a0a0de94778a15f8cf09bd8d2470b2e7d3fa214ee",
+          "offset": 436207616
+        },
+        {
+          "name": "transfer-II-payload.zip.006-015",
+          "size": 33554432,
+          "sha256": "cec77aba282a581e2ddd9862a58eb9c9b954eb7884bfc2b76f130564a549d3a7",
+          "offset": 469762048
+        },
+        {
+          "name": "transfer-II-payload.zip.006-016",
+          "size": 33554432,
+          "sha256": "483c2cdee5b2e371eda9c15fa6c2492ee4ad650a993b545ec7a3d805335dd9e5",
+          "offset": 503316480
+        },
+        {
+          "name": "transfer-II-payload.zip.006-017",
+          "size": 33554432,
+          "sha256": "118ce4348a5915faae2e7116667e9485b6910f28fdada9c1861c143c939c412e",
+          "offset": 536870912
+        },
+        {
+          "name": "transfer-II-payload.zip.006-018",
+          "size": 33554432,
+          "sha256": "e6caa1e2c347c0dd9b5069b72ba368a48c59ce31a636aa0f9e93a040cec4795a",
+          "offset": 570425344
+        },
+        {
+          "name": "transfer-II-payload.zip.006-019",
+          "size": 33554432,
+          "sha256": "3ffa79117e88d4ca671a6c2356800b3a3729d3eac97974db0813f1e79b02a760",
+          "offset": 603979776
+        },
+        {
+          "name": "transfer-II-payload.zip.006-020",
+          "size": 33554432,
+          "sha256": "cdd97249d85d924451e9c3a2827d6b9bc0035d088031f3f4a8748ca7b3c7eb50",
+          "offset": 637534208
+        },
+        {
+          "name": "transfer-II-payload.zip.006-021",
+          "size": 33554432,
+          "sha256": "ea97b26c9baf9a3e0a45e4bfd7fb7b959af607541b2409c6ab5ca9e4c6685453",
+          "offset": 671088640
+        },
+        {
+          "name": "transfer-II-payload.zip.006-022",
+          "size": 33554432,
+          "sha256": "081b16d896930515876d3ff82cdf65f1f964615e11189e9391e16e1a2ab69752",
+          "offset": 704643072
+        },
+        {
+          "name": "transfer-II-payload.zip.006-023",
+          "size": 33554432,
+          "sha256": "ec09eef08445210ace61cd0cdf4512daa8427b1b91e2d7ced2f08ef05db4e4fd",
+          "offset": 738197504
+        },
+        {
+          "name": "transfer-II-payload.zip.006-024",
+          "size": 33554432,
+          "sha256": "4bec8faab9cf14dc0bcd75f700dc18dbc14d2583c65989b915c3a59d3d0a909e",
+          "offset": 771751936
+        },
+        {
+          "name": "transfer-II-payload.zip.006-025",
+          "size": 33554432,
+          "sha256": "e55ed13cd53d3398950170bb93d16ed59d6ee3415ee9a45ab7ca87711698ceef",
+          "offset": 805306368
+        },
+        {
+          "name": "transfer-II-payload.zip.006-026",
+          "size": 33554432,
+          "sha256": "598745361cb4edf26c81b9ec25a79e379898ff2d8ef54346f246b01f6a02c5a3",
+          "offset": 838860800
+        },
+        {
+          "name": "transfer-II-payload.zip.006-027",
+          "size": 33554432,
+          "sha256": "5590c3651db3d300b5e835d98d855c4b0b922f11802867314673fa3f4ca3d4d2",
+          "offset": 872415232
+        },
+        {
+          "name": "transfer-II-payload.zip.006-028",
+          "size": 33554432,
+          "sha256": "d61c689e9af9404d98363e4b3bd135b83600ea47152973c33e630b90cdf70f98",
+          "offset": 905969664
+        },
+        {
+          "name": "transfer-II-payload.zip.006-029",
+          "size": 33554432,
+          "sha256": "eaf9880354ed343b2e8080e0253995c5f58a2ae3b623dd49eb624e8b497a80e4",
+          "offset": 939524096
+        },
+        {
+          "name": "transfer-II-payload.zip.006-030",
+          "size": 33554432,
+          "sha256": "d598e0ea2075d21cf56c94bf3183d05607d5e0f10811168b23329ea6d44c5a87",
+          "offset": 973078528
+        },
+        {
+          "name": "transfer-II-payload.zip.006-031",
+          "size": 33554432,
+          "sha256": "ff0fd8e3200db5c3f613da805035b60d774b6fb964e9b4bb03a6ad9d32038d2b",
+          "offset": 1006632960
+        },
+        {
+          "name": "transfer-II-payload.zip.006-032",
+          "size": 33554432,
+          "sha256": "b1d575c78d4117128425177823db76c603994c6f9501355bde8b10fd29a0e286",
+          "offset": 1040187392
+        },
+        {
+          "name": "transfer-II-payload.zip.006-033",
+          "size": 33554432,
+          "sha256": "c60b9ba4bc80f3b35ad7ec38e966e8246391c87a905b361b931abba6aea93a49",
+          "offset": 1073741824
+        },
+        {
+          "name": "transfer-II-payload.zip.006-034",
+          "size": 33554432,
+          "sha256": "e5ac94b4ee2adbabdbc404422093e1c4d3da451b63149fb1cf721121ff970ef6",
+          "offset": 1107296256
+        },
+        {
+          "name": "transfer-II-payload.zip.006-035",
+          "size": 33554432,
+          "sha256": "f9e41cf5e06522b42291b4156e44d8608552587b884e4a639564a6f4183244b4",
+          "offset": 1140850688
+        },
+        {
+          "name": "transfer-II-payload.zip.006-036",
+          "size": 33554432,
+          "sha256": "446f2611dde0bf8c6cd5f0ecb223e3c397980c25c6e2e3aec9ec2df944439e6e",
+          "offset": 1174405120
+        },
+        {
+          "name": "transfer-II-payload.zip.006-037",
+          "size": 33554432,
+          "sha256": "6a4f30a8fe8f9797be3d1a192b2c55d9b134163bd51d8557d55e31607604040f",
+          "offset": 1207959552
+        },
+        {
+          "name": "transfer-II-payload.zip.006-038",
+          "size": 33554432,
+          "sha256": "3b60b98720cc8f98c1095038b4c4d1db3b180a48395935e22b90d7c355d9a95b",
+          "offset": 1241513984
+        },
+        {
+          "name": "transfer-II-payload.zip.006-039",
+          "size": 33554432,
+          "sha256": "1dd6f8556285dfe258742f862e23b207b38aef3f8a9f41723980e65ef718d9c8",
+          "offset": 1275068416
+        },
+        {
+          "name": "transfer-II-payload.zip.006-040",
+          "size": 33554432,
+          "sha256": "a682b169a25e670bd2847dd1da94a467f9ff4c684195a78ac83a97c94bd3cbde",
+          "offset": 1308622848
+        },
+        {
+          "name": "transfer-II-payload.zip.006-041",
+          "size": 33554432,
+          "sha256": "38a472b7bc8b7517f3b77cf7992d7f21ecbdb7ba9f808af57f1b04713101c058",
+          "offset": 1342177280
+        },
+        {
+          "name": "transfer-II-payload.zip.006-042",
+          "size": 33554432,
+          "sha256": "0d3e03f97ec9cfc4b7d4ac05567a886b5419deda4ccf034ce5eb8495aab2ac55",
+          "offset": 1375731712
+        },
+        {
+          "name": "transfer-II-payload.zip.006-043",
+          "size": 33554432,
+          "sha256": "970385ffea1a2cee48ae2d59f80f00f75a42d2d708e3a37be9a2b3c8da6a24f7",
+          "offset": 1409286144
+        },
+        {
+          "name": "transfer-II-payload.zip.006-044",
+          "size": 33554432,
+          "sha256": "2a6034978654328069be144f7bb8622bd4c02ef22ff760b6a18ce7d40441716c",
+          "offset": 1442840576
+        },
+        {
+          "name": "transfer-II-payload.zip.006-045",
+          "size": 33554432,
+          "sha256": "c437a17797988698ea6acae1a1af3a334d896df875acca9063a3c9b2067469f3",
+          "offset": 1476395008
+        },
+        {
+          "name": "transfer-II-payload.zip.006-046",
+          "size": 33554432,
+          "sha256": "567d56ca560b3d63b94f3a3e353ff487cc72192b90c632b65985097a1c9e51a2",
+          "offset": 1509949440
+        },
+        {
+          "name": "transfer-II-payload.zip.006-047",
+          "size": 33554432,
+          "sha256": "fb1926ca3fe91bbdcb3c12ad994c2d378dc90a4cd791825c00e9919bfa2dd4c9",
+          "offset": 1543503872
+        },
+        {
+          "name": "transfer-II-payload.zip.006-048",
+          "size": 33554432,
+          "sha256": "6d650e5d75a6f657af8b513addc131cac3f131ca8252735cb65d2f02f2ba0e47",
+          "offset": 1577058304
+        }
+      ]
+    },
+    {
+      "name": "II-payload.zip.007",
+      "size": 1610612736,
+      "sha256": "1e8d1638bbd0b101518d7d67959c09766bc7256c0f86c348cf1ebaa91fc12208",
+      "blocks": [
+        {
+          "name": "transfer-II-payload.zip.007-001",
+          "size": 33554432,
+          "sha256": "8fc481c56a41532f7e02f5e07cbe3beb8406e38ca693579de4a06f65efc7c8b9",
+          "offset": 0
+        },
+        {
+          "name": "transfer-II-payload.zip.007-002",
+          "size": 33554432,
+          "sha256": "cd7a399ea87f6ed8b5c125fc0a62d007afb790342faf87c6f09edf24b900d0ef",
+          "offset": 33554432
+        },
+        {
+          "name": "transfer-II-payload.zip.007-003",
+          "size": 33554432,
+          "sha256": "cabe06a667bfee0d3763aadb7cc77db48bdb63894b1dd775b898368e7cce0528",
+          "offset": 67108864
+        },
+        {
+          "name": "transfer-II-payload.zip.007-004",
+          "size": 33554432,
+          "sha256": "25ec267789f1c88a47b96944a3f76fd2b4cd78a4c879391fc95adb1bab971fa8",
+          "offset": 100663296
+        },
+        {
+          "name": "transfer-II-payload.zip.007-005",
+          "size": 33554432,
+          "sha256": "a5bb0fc834cb6a10aa89c0cf7ea020f956be662862de64c3d1dcdbbf6079e9fc",
+          "offset": 134217728
+        },
+        {
+          "name": "transfer-II-payload.zip.007-006",
+          "size": 33554432,
+          "sha256": "a090ad8d676c8bca2c952a9efd1808ad1b9ce8d11ece4d0ec883048a84835a7e",
+          "offset": 167772160
+        },
+        {
+          "name": "transfer-II-payload.zip.007-007",
+          "size": 33554432,
+          "sha256": "326b793e4e565e126095aed34e158fd586fbf1412b680ae54c74a5b3acc99666",
+          "offset": 201326592
+        },
+        {
+          "name": "transfer-II-payload.zip.007-008",
+          "size": 33554432,
+          "sha256": "ac541a6d4bae4900b97a1237654498f57dc8a7419241b7221ce8b2571e2e837c",
+          "offset": 234881024
+        },
+        {
+          "name": "transfer-II-payload.zip.007-009",
+          "size": 33554432,
+          "sha256": "8207b38e909d0b23bc5965308852a717d314bd31228dda98d536a0bb0d91287c",
+          "offset": 268435456
+        },
+        {
+          "name": "transfer-II-payload.zip.007-010",
+          "size": 33554432,
+          "sha256": "f87ea3e318e97437486875b54fdbbc8a16e40d0769068bc6dc910e34d666c362",
+          "offset": 301989888
+        },
+        {
+          "name": "transfer-II-payload.zip.007-011",
+          "size": 33554432,
+          "sha256": "55d1899b918f9903670c364c41d24684ab15137f7f9be06ec14d14d97a633baa",
+          "offset": 335544320
+        },
+        {
+          "name": "transfer-II-payload.zip.007-012",
+          "size": 33554432,
+          "sha256": "4fe5ef7ad89a08261e4678de5409d1d26f3830521243936dfc0b349f6f0f5ad2",
+          "offset": 369098752
+        },
+        {
+          "name": "transfer-II-payload.zip.007-013",
+          "size": 33554432,
+          "sha256": "fc56537315fd1689424b877542c52eb45187e53a8cad3628b5ae26bd2a46a132",
+          "offset": 402653184
+        },
+        {
+          "name": "transfer-II-payload.zip.007-014",
+          "size": 33554432,
+          "sha256": "ada3b52ca4b3c70a8141927bd4ee4be3b54324c0f2b3b61e1c253d4d2bcbfe6d",
+          "offset": 436207616
+        },
+        {
+          "name": "transfer-II-payload.zip.007-015",
+          "size": 33554432,
+          "sha256": "5903da88b2bdef0e940f87fb015bb8b70068d14f4648a68e69f5919a716fa212",
+          "offset": 469762048
+        },
+        {
+          "name": "transfer-II-payload.zip.007-016",
+          "size": 33554432,
+          "sha256": "cbcae0ae03b022a178997666b5598494937517300a06214e1606bbf4b1346cce",
+          "offset": 503316480
+        },
+        {
+          "name": "transfer-II-payload.zip.007-017",
+          "size": 33554432,
+          "sha256": "ab36c196e7468f2271944ab224f17fd07fb8e7301f6fa9b7fb2561ee4fc212f6",
+          "offset": 536870912
+        },
+        {
+          "name": "transfer-II-payload.zip.007-018",
+          "size": 33554432,
+          "sha256": "c95555a74857b0e736fb86126c648104e050c307e138159c8c048694b2839463",
+          "offset": 570425344
+        },
+        {
+          "name": "transfer-II-payload.zip.007-019",
+          "size": 33554432,
+          "sha256": "2c8ad2fdb5de7097f61331bdaa5f3deaf85fcdf35ee0a0b00e3b25db2e7ab842",
+          "offset": 603979776
+        },
+        {
+          "name": "transfer-II-payload.zip.007-020",
+          "size": 33554432,
+          "sha256": "69ed765c371d25311238314376c71e781b50bcdd824185e479f5522a473e6129",
+          "offset": 637534208
+        },
+        {
+          "name": "transfer-II-payload.zip.007-021",
+          "size": 33554432,
+          "sha256": "e88c7c152f1c342e31830a687574e9c38d06ccc39e49a71456d5dafec4c140ad",
+          "offset": 671088640
+        },
+        {
+          "name": "transfer-II-payload.zip.007-022",
+          "size": 33554432,
+          "sha256": "edc8e1d6958a7ebba464ccb68a7dfcc8a77d16950e4fa9ab14355a85edf69e68",
+          "offset": 704643072
+        },
+        {
+          "name": "transfer-II-payload.zip.007-023",
+          "size": 33554432,
+          "sha256": "9a58420c22da31edc0df857d5c446716317b92f44c3031fc937475ee097044a5",
+          "offset": 738197504
+        },
+        {
+          "name": "transfer-II-payload.zip.007-024",
+          "size": 33554432,
+          "sha256": "99d47bab392f3264a4ee34eb117190c15ee8da5479d109fbde739881d426000e",
+          "offset": 771751936
+        },
+        {
+          "name": "transfer-II-payload.zip.007-025",
+          "size": 33554432,
+          "sha256": "5cf074dcaf7bdd3f3d2c56ba5e56f72caa35a93c9e8dcfa270703933b032d189",
+          "offset": 805306368
+        },
+        {
+          "name": "transfer-II-payload.zip.007-026",
+          "size": 33554432,
+          "sha256": "4f7ad27b353bb1c7a0163846f831cd0a540fbd91b74dc8d9652d9cb88aa8d2c5",
+          "offset": 838860800
+        },
+        {
+          "name": "transfer-II-payload.zip.007-027",
+          "size": 33554432,
+          "sha256": "8d6252393c3e24eea66cfab688544b68e3a303c18e0039e0ea7e372ab44d10bd",
+          "offset": 872415232
+        },
+        {
+          "name": "transfer-II-payload.zip.007-028",
+          "size": 33554432,
+          "sha256": "06b4d0605a953ec92a5366c0f98a3ba92f5431a322398424e7bfc55a5a5f77a1",
+          "offset": 905969664
+        },
+        {
+          "name": "transfer-II-payload.zip.007-029",
+          "size": 33554432,
+          "sha256": "8ccea8254ca8e11d075b643c7063c123ab8024799726a3eefb891ac948ff3065",
+          "offset": 939524096
+        },
+        {
+          "name": "transfer-II-payload.zip.007-030",
+          "size": 33554432,
+          "sha256": "fd4a71f094a39ea970c72ac301af5ff1f2285d506ca0eb0ed53169febfdaa9b7",
+          "offset": 973078528
+        },
+        {
+          "name": "transfer-II-payload.zip.007-031",
+          "size": 33554432,
+          "sha256": "95a220a78519c4e83228b5a7bbe3d41a4338802a37eb1f47edce56cbbbd3e8ef",
+          "offset": 1006632960
+        },
+        {
+          "name": "transfer-II-payload.zip.007-032",
+          "size": 33554432,
+          "sha256": "4d6d6a0139fd30090b904c94a3513a4509f8db84170dde96328ca195f49b2f2c",
+          "offset": 1040187392
+        },
+        {
+          "name": "transfer-II-payload.zip.007-033",
+          "size": 33554432,
+          "sha256": "d38c975048d5c134adaad629e099ad26e5662a3c956527792c8767933b09c04e",
+          "offset": 1073741824
+        },
+        {
+          "name": "transfer-II-payload.zip.007-034",
+          "size": 33554432,
+          "sha256": "aa966ae363ab6645dea5b11f9f992fdf752ad0fc28642e0795787f1e51310ab4",
+          "offset": 1107296256
+        },
+        {
+          "name": "transfer-II-payload.zip.007-035",
+          "size": 33554432,
+          "sha256": "9fc734248f9671a8119580c765227b779b3d85350c4886f1871fe411a0606fc9",
+          "offset": 1140850688
+        },
+        {
+          "name": "transfer-II-payload.zip.007-036",
+          "size": 33554432,
+          "sha256": "5d271b7cf995cd252b1a334116580c21ebfe7bd69916cb821e4034b4e719a896",
+          "offset": 1174405120
+        },
+        {
+          "name": "transfer-II-payload.zip.007-037",
+          "size": 33554432,
+          "sha256": "e04741d61c8c524dcfb2480760983ef0e51128eae28ac30f57ff7af15c37a158",
+          "offset": 1207959552
+        },
+        {
+          "name": "transfer-II-payload.zip.007-038",
+          "size": 33554432,
+          "sha256": "376478a8129491c47ea0539f6df9254be40337111540a5765adbe446dfa5a923",
+          "offset": 1241513984
+        },
+        {
+          "name": "transfer-II-payload.zip.007-039",
+          "size": 33554432,
+          "sha256": "159ed6373b58481b3176f575fe444de7486e6317018a179d954cfb29190df39f",
+          "offset": 1275068416
+        },
+        {
+          "name": "transfer-II-payload.zip.007-040",
+          "size": 33554432,
+          "sha256": "b334b9c1ec9ee834665e4019166dfd3afefd1144efc84c2a1f7ad0d39bb05613",
+          "offset": 1308622848
+        },
+        {
+          "name": "transfer-II-payload.zip.007-041",
+          "size": 33554432,
+          "sha256": "1539e2bde1343c47f143ff7012e12de2627308dadd93e7d651ea80367e13e826",
+          "offset": 1342177280
+        },
+        {
+          "name": "transfer-II-payload.zip.007-042",
+          "size": 33554432,
+          "sha256": "0273790f94159a096d353633e8b7a25b9ba3e59fc2557e4549c4c55ce8053c8d",
+          "offset": 1375731712
+        },
+        {
+          "name": "transfer-II-payload.zip.007-043",
+          "size": 33554432,
+          "sha256": "8e8a64e7e9f78cdd254770306e6be0cc244c4b9fc287dfa745cfdc7e830595f0",
+          "offset": 1409286144
+        },
+        {
+          "name": "transfer-II-payload.zip.007-044",
+          "size": 33554432,
+          "sha256": "c4393d06ba27934dc015608c303e0f359542c34748b66d5eb5415fb242fbb9d1",
+          "offset": 1442840576
+        },
+        {
+          "name": "transfer-II-payload.zip.007-045",
+          "size": 33554432,
+          "sha256": "078fffe1ce95b697aa448580260584ac50490ffecc338aa314a47fb57dea7bbf",
+          "offset": 1476395008
+        },
+        {
+          "name": "transfer-II-payload.zip.007-046",
+          "size": 33554432,
+          "sha256": "6dae06ecca00e812d4ca00a8eb9c9bda7e9c83b7c65a33dacec8897348b1c378",
+          "offset": 1509949440
+        },
+        {
+          "name": "transfer-II-payload.zip.007-047",
+          "size": 33554432,
+          "sha256": "4238b356d4e7c18ec78da7394180b63b43f1c9d2e635f0fee948cd4d4d51da8d",
+          "offset": 1543503872
+        },
+        {
+          "name": "transfer-II-payload.zip.007-048",
+          "size": 33554432,
+          "sha256": "1037333bc83c8b8d32d63b249017201ad642543464fbcc4d8678682326de63ee",
+          "offset": 1577058304
+        }
+      ]
+    },
+    {
+      "name": "II-payload.zip.008",
+      "size": 1610612736,
+      "sha256": "230280005a70481549cee08396fa67e4de9297e980b4090de3e7306f43333435",
+      "blocks": [
+        {
+          "name": "transfer-II-payload.zip.008-001",
+          "size": 33554432,
+          "sha256": "44098e18aee1d9278f51e01e4ff0040107781635500580125f2300fab6adb879",
+          "offset": 0
+        },
+        {
+          "name": "transfer-II-payload.zip.008-002",
+          "size": 33554432,
+          "sha256": "a9b303b1a4e28d0eae25406eec0c0f4c009542b30b983596583f68754f87f1de",
+          "offset": 33554432
+        },
+        {
+          "name": "transfer-II-payload.zip.008-003",
+          "size": 33554432,
+          "sha256": "ff081812278690d2d5700a3a4bfb816756efa301f817a5d04230d008da112185",
+          "offset": 67108864
+        },
+        {
+          "name": "transfer-II-payload.zip.008-004",
+          "size": 33554432,
+          "sha256": "70473d068a62b3b3235e16ed58741213b0e0be130f0556684c37e1579ea1933b",
+          "offset": 100663296
+        },
+        {
+          "name": "transfer-II-payload.zip.008-005",
+          "size": 33554432,
+          "sha256": "bda2a26db38db3658145771b9ec5437f3c552e4b36af47ca4f5f447d278bd2f9",
+          "offset": 134217728
+        },
+        {
+          "name": "transfer-II-payload.zip.008-006",
+          "size": 33554432,
+          "sha256": "a38d774ae9c62f72bb7acaee6c05b251086f21811d7ba5a80c46ca268d8be2f8",
+          "offset": 167772160
+        },
+        {
+          "name": "transfer-II-payload.zip.008-007",
+          "size": 33554432,
+          "sha256": "a6e85daffa3de7f3957fc3a015eeb7a34f17581d9dae7aa0953c90b1f738f422",
+          "offset": 201326592
+        },
+        {
+          "name": "transfer-II-payload.zip.008-008",
+          "size": 33554432,
+          "sha256": "01af08d56e183af1d1d5cb8ea85c4585ffa0c771f39989a567f0e46f3781987e",
+          "offset": 234881024
+        },
+        {
+          "name": "transfer-II-payload.zip.008-009",
+          "size": 33554432,
+          "sha256": "bbc4888e2d6874473aa4c85b54384bc6cedf8e5910b3d2be969f846185a061c9",
+          "offset": 268435456
+        },
+        {
+          "name": "transfer-II-payload.zip.008-010",
+          "size": 33554432,
+          "sha256": "994160e97f28f4820074eac4711486bd9c2d279ffe5d1f1f0249c565eddb31d0",
+          "offset": 301989888
+        },
+        {
+          "name": "transfer-II-payload.zip.008-011",
+          "size": 33554432,
+          "sha256": "5be06206e29347cf1be37852d6db4dcd82d7fe2f23ede29014275506332e26ba",
+          "offset": 335544320
+        },
+        {
+          "name": "transfer-II-payload.zip.008-012",
+          "size": 33554432,
+          "sha256": "588d2bf32be0a6b8b2354acdf0bf3faf88a11c09ab15ace7e2018ccd9deda75b",
+          "offset": 369098752
+        },
+        {
+          "name": "transfer-II-payload.zip.008-013",
+          "size": 33554432,
+          "sha256": "886c4370702f6fd3bd4dd9a6aaae9be9db7746d91b8f7e25c7d6eb1a24228fc9",
+          "offset": 402653184
+        },
+        {
+          "name": "transfer-II-payload.zip.008-014",
+          "size": 33554432,
+          "sha256": "c2641c415b781bb6042a53546587a47583acd22fbabb7efb7484c46c5f0475d8",
+          "offset": 436207616
+        },
+        {
+          "name": "transfer-II-payload.zip.008-015",
+          "size": 33554432,
+          "sha256": "4b1a2fa82442a1cabe6b8e419a0763af5a518c76fbff60cfa6cee145e145abec",
+          "offset": 469762048
+        },
+        {
+          "name": "transfer-II-payload.zip.008-016",
+          "size": 33554432,
+          "sha256": "077fcb99c694fa1bf4c0ef658bfd649bf567d3b8323d77688757ecdaa86f275c",
+          "offset": 503316480
+        },
+        {
+          "name": "transfer-II-payload.zip.008-017",
+          "size": 33554432,
+          "sha256": "3d1ae3a49036812339ad16cd0f62ab991ebb794cba14b41ffe808af5aaff61be",
+          "offset": 536870912
+        },
+        {
+          "name": "transfer-II-payload.zip.008-018",
+          "size": 33554432,
+          "sha256": "8a18c62541f0bf75936f4bbd9dbb4fe47893ef559158d8ecd260aa9efb550841",
+          "offset": 570425344
+        },
+        {
+          "name": "transfer-II-payload.zip.008-019",
+          "size": 33554432,
+          "sha256": "e0517ff9b02090f40b0c31ee00ee8724acf6375512c188d9c59851f39b9a86b4",
+          "offset": 603979776
+        },
+        {
+          "name": "transfer-II-payload.zip.008-020",
+          "size": 33554432,
+          "sha256": "63ea8737b4603e1c8f1bd455ac872e3572d5255571db2c1287eddfe0004888de",
+          "offset": 637534208
+        },
+        {
+          "name": "transfer-II-payload.zip.008-021",
+          "size": 33554432,
+          "sha256": "4b4912008af062e14741b479590efbc5582333e4ecd4f1542f818433a7bd92d9",
+          "offset": 671088640
+        },
+        {
+          "name": "transfer-II-payload.zip.008-022",
+          "size": 33554432,
+          "sha256": "91ee663bcb663838675891de1508d5c7e767fdc586c97900e42b23a9fbe4e294",
+          "offset": 704643072
+        },
+        {
+          "name": "transfer-II-payload.zip.008-023",
+          "size": 33554432,
+          "sha256": "71b11df1cc45d8197f49aee40f308fbc9d47f574116054895d2960ebe1af4030",
+          "offset": 738197504
+        },
+        {
+          "name": "transfer-II-payload.zip.008-024",
+          "size": 33554432,
+          "sha256": "660cec53b19c6c6fd88704f3727bc000830e4cb391e86447dc915d62c8b5b69b",
+          "offset": 771751936
+        },
+        {
+          "name": "transfer-II-payload.zip.008-025",
+          "size": 33554432,
+          "sha256": "6c13ea4d70ec20d31fbe8936609173a94698e8c9802e172bdd29360ef7e4dffc",
+          "offset": 805306368
+        },
+        {
+          "name": "transfer-II-payload.zip.008-026",
+          "size": 33554432,
+          "sha256": "1b34085b03c06a566e756a771479219840dedf803e37cbb14ee8e24a6728df46",
+          "offset": 838860800
+        },
+        {
+          "name": "transfer-II-payload.zip.008-027",
+          "size": 33554432,
+          "sha256": "b50dff42654ee788443d7b6109bec087201268fbaf724236d1f1e2ae23994c16",
+          "offset": 872415232
+        },
+        {
+          "name": "transfer-II-payload.zip.008-028",
+          "size": 33554432,
+          "sha256": "60129fb2db4e621105ab5a354dea68242ab67ff2b29a356e17e06e07bf3db85a",
+          "offset": 905969664
+        },
+        {
+          "name": "transfer-II-payload.zip.008-029",
+          "size": 33554432,
+          "sha256": "8583822efa2da0307ff2e26b9c5aa4ff4068ee807459805a8998af6224e50155",
+          "offset": 939524096
+        },
+        {
+          "name": "transfer-II-payload.zip.008-030",
+          "size": 33554432,
+          "sha256": "10483208f2586b12d6a5eeda24fcd0929f4abf81badf59b8e6c92c04bb7b0fd0",
+          "offset": 973078528
+        },
+        {
+          "name": "transfer-II-payload.zip.008-031",
+          "size": 33554432,
+          "sha256": "7690906c12bf2a2e897c756fe0f3b319e9c675245f75b75eb171208b7a73dde0",
+          "offset": 1006632960
+        },
+        {
+          "name": "transfer-II-payload.zip.008-032",
+          "size": 33554432,
+          "sha256": "f49604e7d76c4e493eddd899243c475d7050f84a1978d2efe79f9409be568e22",
+          "offset": 1040187392
+        },
+        {
+          "name": "transfer-II-payload.zip.008-033",
+          "size": 33554432,
+          "sha256": "dd179decbd8d21b8e1da92b3893f66abbb2592f4cad13c7b970394d774d333f1",
+          "offset": 1073741824
+        },
+        {
+          "name": "transfer-II-payload.zip.008-034",
+          "size": 33554432,
+          "sha256": "d0cd8af42c62e4df210636da52d792233f2e1d5da8b4d93228fd511b238664cf",
+          "offset": 1107296256
+        },
+        {
+          "name": "transfer-II-payload.zip.008-035",
+          "size": 33554432,
+          "sha256": "28fe8360c4ca6f76b4d55aedac45032b25ef40ca7cbd88c7650ecf808b67a80d",
+          "offset": 1140850688
+        },
+        {
+          "name": "transfer-II-payload.zip.008-036",
+          "size": 33554432,
+          "sha256": "cdea5994d610747112cd38a0040526d8c74be2305324d586f0061c8a067c0555",
+          "offset": 1174405120
+        },
+        {
+          "name": "transfer-II-payload.zip.008-037",
+          "size": 33554432,
+          "sha256": "b20b329b2ddadbb4573ca36304f1f4b2a018fac406e3d945d4ede5c341f59b27",
+          "offset": 1207959552
+        },
+        {
+          "name": "transfer-II-payload.zip.008-038",
+          "size": 33554432,
+          "sha256": "a565bf036557e42671c1afd0902936b213ae794079f2186357255993eebf0cca",
+          "offset": 1241513984
+        },
+        {
+          "name": "transfer-II-payload.zip.008-039",
+          "size": 33554432,
+          "sha256": "e99555e91e01438503f0f1c5062dbbc0bcc0c9e9e0e9a2e147260eb7c974a6fc",
+          "offset": 1275068416
+        },
+        {
+          "name": "transfer-II-payload.zip.008-040",
+          "size": 33554432,
+          "sha256": "9786b0d827d09af36ed67c435e5006f3fce759a59626579936fe233073349d28",
+          "offset": 1308622848
+        },
+        {
+          "name": "transfer-II-payload.zip.008-041",
+          "size": 33554432,
+          "sha256": "850c06ae720173e115b0a65e9af60834778cf4650e2a8bc12a363d414e5c6699",
+          "offset": 1342177280
+        },
+        {
+          "name": "transfer-II-payload.zip.008-042",
+          "size": 33554432,
+          "sha256": "bc26c4768dad8923efdd8a95010ef8c417f56cb88136eacdf7465a65af9fd3b5",
+          "offset": 1375731712
+        },
+        {
+          "name": "transfer-II-payload.zip.008-043",
+          "size": 33554432,
+          "sha256": "5185bc83305f244abb2721b1ac9e174e82d83c1c94c98a2a11eb15111acea660",
+          "offset": 1409286144
+        },
+        {
+          "name": "transfer-II-payload.zip.008-044",
+          "size": 33554432,
+          "sha256": "e0f68936aef0a579381942f1ba34ef9f81abaf191cfbab5e8bd8b6a889417003",
+          "offset": 1442840576
+        },
+        {
+          "name": "transfer-II-payload.zip.008-045",
+          "size": 33554432,
+          "sha256": "e1fbdeceee1578b12694f34e86a3bd262f5c01191835ac78277483c85c21aecb",
+          "offset": 1476395008
+        },
+        {
+          "name": "transfer-II-payload.zip.008-046",
+          "size": 33554432,
+          "sha256": "8937540875610e89da4e5d31384195dc59b2a324277ead87770e503f28f3cbc4",
+          "offset": 1509949440
+        },
+        {
+          "name": "transfer-II-payload.zip.008-047",
+          "size": 33554432,
+          "sha256": "4486480ff33c31baf5cd81c61e73273fa339c677ce215e649425f1e632c0b21a",
+          "offset": 1543503872
+        },
+        {
+          "name": "transfer-II-payload.zip.008-048",
+          "size": 33554432,
+          "sha256": "7fcb6b183f815c6e08788b83787aab159ccc595b4040176cce78ff6d31f515ab",
+          "offset": 1577058304
+        }
+      ]
+    },
+    {
+      "name": "II-payload.zip.009",
+      "size": 1610612736,
+      "sha256": "f9478575ffb152d6ce902faa0c518c5b750963a5edc4ee221e32a2daf46439e8",
+      "blocks": [
+        {
+          "name": "transfer-II-payload.zip.009-001",
+          "size": 33554432,
+          "sha256": "ecf95f20aee9557917933857cee99fd23607b99f656a7ce8c128400e6568c65a",
+          "offset": 0
+        },
+        {
+          "name": "transfer-II-payload.zip.009-002",
+          "size": 33554432,
+          "sha256": "e704e4fe20332f0f06a6b5f31051d858689355c6c4449d6ecc39c7d56123870a",
+          "offset": 33554432
+        },
+        {
+          "name": "transfer-II-payload.zip.009-003",
+          "size": 33554432,
+          "sha256": "af4bbd36302735817bff56437ed9a282828ee62e8f57fdf8a070b81841288234",
+          "offset": 67108864
+        },
+        {
+          "name": "transfer-II-payload.zip.009-004",
+          "size": 33554432,
+          "sha256": "ac7c6b1e6b1384b876d3836a418f4bc7e074eb5751d6aef2d297b08e5cbbc4ee",
+          "offset": 100663296
+        },
+        {
+          "name": "transfer-II-payload.zip.009-005",
+          "size": 33554432,
+          "sha256": "1b4cc6f00d31e29b115ab8ff0f893d137372b1a9ada0cb311c1cd5fe37f0bfef",
+          "offset": 134217728
+        },
+        {
+          "name": "transfer-II-payload.zip.009-006",
+          "size": 33554432,
+          "sha256": "1a448f1ed2c56a4a4b1a4e603c5c554cf3dc66da88899e45e02c96c99a7862ef",
+          "offset": 167772160
+        },
+        {
+          "name": "transfer-II-payload.zip.009-007",
+          "size": 33554432,
+          "sha256": "78656169d47bdb4f1272b51dad00b7f5dd1fdaea168a3b7ce23505636905d3cd",
+          "offset": 201326592
+        },
+        {
+          "name": "transfer-II-payload.zip.009-008",
+          "size": 33554432,
+          "sha256": "a2b2f84f970ee0779128df242ac6497e03063b300c70e4cdacbbe7db0343e6cc",
+          "offset": 234881024
+        },
+        {
+          "name": "transfer-II-payload.zip.009-009",
+          "size": 33554432,
+          "sha256": "a9b66751683d1416afe967d4ef0fb4ea22c981a93a88c51b857a1cd3e7f167f6",
+          "offset": 268435456
+        },
+        {
+          "name": "transfer-II-payload.zip.009-010",
+          "size": 33554432,
+          "sha256": "42941f7e25f0f00e6670e3b8c7403697fb153390aa3b96da6e7f9969dd048ab0",
+          "offset": 301989888
+        },
+        {
+          "name": "transfer-II-payload.zip.009-011",
+          "size": 33554432,
+          "sha256": "3c8327ca209953132db4d216bd4e627d489ec8a7117199e2834558cf3def517e",
+          "offset": 335544320
+        },
+        {
+          "name": "transfer-II-payload.zip.009-012",
+          "size": 33554432,
+          "sha256": "8697cbad0f1c82dbe8aa9448f49efa5cf55c4e6ee0d843e107b007323ecb872a",
+          "offset": 369098752
+        },
+        {
+          "name": "transfer-II-payload.zip.009-013",
+          "size": 33554432,
+          "sha256": "c72fb1554d166fc3d360171fc653a4df91a118f2dbdbf9995ca464a304adfeac",
+          "offset": 402653184
+        },
+        {
+          "name": "transfer-II-payload.zip.009-014",
+          "size": 33554432,
+          "sha256": "9c94c0e295bc35870ae3b6fbe98091d9ed66b693261790df90a50092d8e8095b",
+          "offset": 436207616
+        },
+        {
+          "name": "transfer-II-payload.zip.009-015",
+          "size": 33554432,
+          "sha256": "3af07cdc59b65697ba96df31376d5ce1604b324389f9846d181474757cc6b757",
+          "offset": 469762048
+        },
+        {
+          "name": "transfer-II-payload.zip.009-016",
+          "size": 33554432,
+          "sha256": "3f3b30863e63d0296da23d1e23f8c028c1f7759701b9235da94e6192f28abb4f",
+          "offset": 503316480
+        },
+        {
+          "name": "transfer-II-payload.zip.009-017",
+          "size": 33554432,
+          "sha256": "468b0c9dc3172428c5990b89bcf6e8177d32b12da4f5171713425a996d8e966c",
+          "offset": 536870912
+        },
+        {
+          "name": "transfer-II-payload.zip.009-018",
+          "size": 33554432,
+          "sha256": "79e11e448b4b5f91236bb9525e2ce7736103d6cffaea9484395261364beef261",
+          "offset": 570425344
+        },
+        {
+          "name": "transfer-II-payload.zip.009-019",
+          "size": 33554432,
+          "sha256": "e66b629cb1f42fe8b25bb07808c43219e673a2f4b2c5ccf8ce63d61d1c456a4c",
+          "offset": 603979776
+        },
+        {
+          "name": "transfer-II-payload.zip.009-020",
+          "size": 33554432,
+          "sha256": "247b75ae8f1b6d3983f045d22cb99d48f8cadb08dc3d6564152ed84f5e270b43",
+          "offset": 637534208
+        },
+        {
+          "name": "transfer-II-payload.zip.009-021",
+          "size": 33554432,
+          "sha256": "dacd350517dc8546d63e74594e88410a3a7374ff91a94c76321c0e8d0b16b0bb",
+          "offset": 671088640
+        },
+        {
+          "name": "transfer-II-payload.zip.009-022",
+          "size": 33554432,
+          "sha256": "a29f1260d9deb8edf8c47712cfe94958e6195f658652c4c1708687aa942474ba",
+          "offset": 704643072
+        },
+        {
+          "name": "transfer-II-payload.zip.009-023",
+          "size": 33554432,
+          "sha256": "cf45e820720eb17e912041f84f1b9da7fb1ce66344ccadbc55a4dfc7b602755d",
+          "offset": 738197504
+        },
+        {
+          "name": "transfer-II-payload.zip.009-024",
+          "size": 33554432,
+          "sha256": "ec3e21a2ce98d7174298a5ba296ecda1acad9344fbb5ed3b02d023805fbf721f",
+          "offset": 771751936
+        },
+        {
+          "name": "transfer-II-payload.zip.009-025",
+          "size": 33554432,
+          "sha256": "bd124590c22c0f9862ab884b18994c95d4c78cf9144d93d434f7965130018571",
+          "offset": 805306368
+        },
+        {
+          "name": "transfer-II-payload.zip.009-026",
+          "size": 33554432,
+          "sha256": "c2b7bde66867fa72012454b7d84eae5058a3fe69f5b854aa721ddbf8550e2575",
+          "offset": 838860800
+        },
+        {
+          "name": "transfer-II-payload.zip.009-027",
+          "size": 33554432,
+          "sha256": "d7f98e50520e52c5f6482c2645dbab6b3334b1a46762888893e1db83da0ddb14",
+          "offset": 872415232
+        },
+        {
+          "name": "transfer-II-payload.zip.009-028",
+          "size": 33554432,
+          "sha256": "ca9682306fbedc46433b83be62c67a745f7c29efd111d3294f13995c3a00b750",
+          "offset": 905969664
+        },
+        {
+          "name": "transfer-II-payload.zip.009-029",
+          "size": 33554432,
+          "sha256": "a9b24521987e644750fdef8ff980d2e92821e1cc78c4e60f55bef9ca7f661c75",
+          "offset": 939524096
+        },
+        {
+          "name": "transfer-II-payload.zip.009-030",
+          "size": 33554432,
+          "sha256": "a6fa72a7dd0ce0d7726804cb551a952c2241a9a14fef0929c36347d8bfeb99d7",
+          "offset": 973078528
+        },
+        {
+          "name": "transfer-II-payload.zip.009-031",
+          "size": 33554432,
+          "sha256": "a7d1ef4d48d6614e93166e4c2f8370faa0f6c0366fba3305fcc33a83c79b7f65",
+          "offset": 1006632960
+        },
+        {
+          "name": "transfer-II-payload.zip.009-032",
+          "size": 33554432,
+          "sha256": "4372c2eee6b6f5406618e6af7694b3edf18ea77a4d7a922be70dad02b7672c83",
+          "offset": 1040187392
+        },
+        {
+          "name": "transfer-II-payload.zip.009-033",
+          "size": 33554432,
+          "sha256": "0fb2d6d5e6dbc530d8742f1ef4fbe53dbed12e9f3b4ece0ea4a811fb6e5fe925",
+          "offset": 1073741824
+        },
+        {
+          "name": "transfer-II-payload.zip.009-034",
+          "size": 33554432,
+          "sha256": "0f331af0249e0913a3074a25c77dca379ea1a4cc1baa089a5e10505136399ce0",
+          "offset": 1107296256
+        },
+        {
+          "name": "transfer-II-payload.zip.009-035",
+          "size": 33554432,
+          "sha256": "8f0d792166ec1a294594c71839ba2e68be0643a4413cb0ba4309fcd1c75706d2",
+          "offset": 1140850688
+        },
+        {
+          "name": "transfer-II-payload.zip.009-036",
+          "size": 33554432,
+          "sha256": "07daf2b48ffc33608d03f2f73ad17f0e8d5d22e6473237f5c428e892ba3f47c8",
+          "offset": 1174405120
+        },
+        {
+          "name": "transfer-II-payload.zip.009-037",
+          "size": 33554432,
+          "sha256": "26b06f5fc57baea139c295ce7aa88e6bba160a1cba913bd3b0bb82c431b3a65b",
+          "offset": 1207959552
+        },
+        {
+          "name": "transfer-II-payload.zip.009-038",
+          "size": 33554432,
+          "sha256": "86064e0d6365f57fe0f7dde26fa4b144f9e559e5a712e2ebb0f4dfaca049cfd8",
+          "offset": 1241513984
+        },
+        {
+          "name": "transfer-II-payload.zip.009-039",
+          "size": 33554432,
+          "sha256": "e64aed67524d39764bf6c842038ea2ff74280a3acc61c7e9abcc13e6ea12338e",
+          "offset": 1275068416
+        },
+        {
+          "name": "transfer-II-payload.zip.009-040",
+          "size": 33554432,
+          "sha256": "01833c04358b8d7a95af442e8364d1ec9a98d755252997320942a46ba993588c",
+          "offset": 1308622848
+        },
+        {
+          "name": "transfer-II-payload.zip.009-041",
+          "size": 33554432,
+          "sha256": "f95eb95e3640ff480c8f2f439f3ab6461b403ca955cd6ae383de68a0fb306d9c",
+          "offset": 1342177280
+        },
+        {
+          "name": "transfer-II-payload.zip.009-042",
+          "size": 33554432,
+          "sha256": "f5a0017d5af6ab8b8feddbe5a2332a08193d2fdd16bf9d50ae9f9017965c9399",
+          "offset": 1375731712
+        },
+        {
+          "name": "transfer-II-payload.zip.009-043",
+          "size": 33554432,
+          "sha256": "64176ccb89f6774bc1ca9e735164ad85ee5c30fb6565dc3eef52847c2c93e4df",
+          "offset": 1409286144
+        },
+        {
+          "name": "transfer-II-payload.zip.009-044",
+          "size": 33554432,
+          "sha256": "1f4677dfb3051b374cfad75671616b09252851865342ba3b4a54a81e1b094228",
+          "offset": 1442840576
+        },
+        {
+          "name": "transfer-II-payload.zip.009-045",
+          "size": 33554432,
+          "sha256": "4081088299d027aa03dda76fbe8991906f1287afc7adb5b1ae5eb37b1309a770",
+          "offset": 1476395008
+        },
+        {
+          "name": "transfer-II-payload.zip.009-046",
+          "size": 33554432,
+          "sha256": "d49cd1c7c9121c98115dc102efb5fc4197682ab3c45a71b82bff38b5c5087440",
+          "offset": 1509949440
+        },
+        {
+          "name": "transfer-II-payload.zip.009-047",
+          "size": 33554432,
+          "sha256": "4605e14b444d5e9de00cf933a139cd3d5d913537e023c43a317ae3febea8a411",
+          "offset": 1543503872
+        },
+        {
+          "name": "transfer-II-payload.zip.009-048",
+          "size": 33554432,
+          "sha256": "3ad675c9ce73590641d5cd871287e2a35afff95ebe043ee90c74ed12d0f9f52e",
+          "offset": 1577058304
+        }
+      ]
+    },
+    {
+      "name": "II-payload.zip.010",
+      "size": 1610612736,
+      "sha256": "511162ed84f47ded266223aa78b4c242de37869f6dd653a97a51c3b50af54e4a",
+      "blocks": [
+        {
+          "name": "transfer-II-payload.zip.010-001",
+          "size": 33554432,
+          "sha256": "9d7205c75637fc1003e956a34bf4325ae6b2182bb5bd9505789f1837a99a1fff",
+          "offset": 0
+        },
+        {
+          "name": "transfer-II-payload.zip.010-002",
+          "size": 33554432,
+          "sha256": "e5a3dbd276cf5caf2c9ef1ce8e47e5e9bb9c6b62562ae9b75c9b87710541d3e0",
+          "offset": 33554432
+        },
+        {
+          "name": "transfer-II-payload.zip.010-003",
+          "size": 33554432,
+          "sha256": "6d7216304cb26c0d658f3cf6c070fe7d7e4b9d67cd48cd4dede9d3d324431d66",
+          "offset": 67108864
+        },
+        {
+          "name": "transfer-II-payload.zip.010-004",
+          "size": 33554432,
+          "sha256": "dbd83d29855dd88b5328544836bf10d34ca452706690e7ff80bbcbc998782945",
+          "offset": 100663296
+        },
+        {
+          "name": "transfer-II-payload.zip.010-005",
+          "size": 33554432,
+          "sha256": "6cad41f9f1c330d19fa25b5445d34c7e058e00d26b71ac7e3f7af65cc27dfcfc",
+          "offset": 134217728
+        },
+        {
+          "name": "transfer-II-payload.zip.010-006",
+          "size": 33554432,
+          "sha256": "f66b6a3ce2ee909e1db358adb0ffe2b051c54539cc89ea1b4163ab97ff70725b",
+          "offset": 167772160
+        },
+        {
+          "name": "transfer-II-payload.zip.010-007",
+          "size": 33554432,
+          "sha256": "d3cb3567d9c3ae4ef9216f14bbe83e83fd377d4ae1d7dad6ed3ddac1366f66ca",
+          "offset": 201326592
+        },
+        {
+          "name": "transfer-II-payload.zip.010-008",
+          "size": 33554432,
+          "sha256": "b70260f83cff541c538cc5100119a2d6e64e92f3d1f0dc8c6df537bf4d047634",
+          "offset": 234881024
+        },
+        {
+          "name": "transfer-II-payload.zip.010-009",
+          "size": 33554432,
+          "sha256": "7c0b30b6652d9e840ebfb432e9887de93808b8b369d86e1f6850de543c2a3ba2",
+          "offset": 268435456
+        },
+        {
+          "name": "transfer-II-payload.zip.010-010",
+          "size": 33554432,
+          "sha256": "4e0da16c7d09906a3fe8067c832479dea89b1f8dc8a869b3accb8c952df08e46",
+          "offset": 301989888
+        },
+        {
+          "name": "transfer-II-payload.zip.010-011",
+          "size": 33554432,
+          "sha256": "99507c1e98207f5b4a941eb7652c17220dd1afadfecd5e1c526465adacb43fe8",
+          "offset": 335544320
+        },
+        {
+          "name": "transfer-II-payload.zip.010-012",
+          "size": 33554432,
+          "sha256": "b1a537e4ed235f5fa262e6a47d0ee6de0c5ff373006f9525d094e08361cfde02",
+          "offset": 369098752
+        },
+        {
+          "name": "transfer-II-payload.zip.010-013",
+          "size": 33554432,
+          "sha256": "a53680a1d176d8ee3dc7b7920f33290114f0474fa0876094b13bc4b2cbb718d0",
+          "offset": 402653184
+        },
+        {
+          "name": "transfer-II-payload.zip.010-014",
+          "size": 33554432,
+          "sha256": "3e2dd24c40a81276e7354656ce5d607dae6914a01fded7aec40298aaf0c36aef",
+          "offset": 436207616
+        },
+        {
+          "name": "transfer-II-payload.zip.010-015",
+          "size": 33554432,
+          "sha256": "45f90483c4ef176209871427a55476e2b74c5b06f831a1e8d3ef78ac16353324",
+          "offset": 469762048
+        },
+        {
+          "name": "transfer-II-payload.zip.010-016",
+          "size": 33554432,
+          "sha256": "278c58bee7c68a07898c0ec93988e2e6aebc4f518b5f096ed650871ca7798dd3",
+          "offset": 503316480
+        },
+        {
+          "name": "transfer-II-payload.zip.010-017",
+          "size": 33554432,
+          "sha256": "06558db5b0aee48f88ec9f655580545c20f7b4221be8b86bb8c7913e9f1e2545",
+          "offset": 536870912
+        },
+        {
+          "name": "transfer-II-payload.zip.010-018",
+          "size": 33554432,
+          "sha256": "0c4e4e59b5fc116f966886be38dcdde39342dabcd9b4e5ee4005a3db390184aa",
+          "offset": 570425344
+        },
+        {
+          "name": "transfer-II-payload.zip.010-019",
+          "size": 33554432,
+          "sha256": "7130a56b296bbd667142923fa130f0894e4f9ca2bc181a9f8b43f9b8225ada66",
+          "offset": 603979776
+        },
+        {
+          "name": "transfer-II-payload.zip.010-020",
+          "size": 33554432,
+          "sha256": "b5e7f2d6f16125b4cc2d7b159630698231e74b667bfa6f597984148519f121cb",
+          "offset": 637534208
+        },
+        {
+          "name": "transfer-II-payload.zip.010-021",
+          "size": 33554432,
+          "sha256": "01871d4e191e8a1b8f023ffa3ea34784c81f42cf503eb82a2420f64e2a30ebe7",
+          "offset": 671088640
+        },
+        {
+          "name": "transfer-II-payload.zip.010-022",
+          "size": 33554432,
+          "sha256": "05458c957e9e263b4ead612133bd80e0a76c93a0b4e3e6a09ba76c7712fcc820",
+          "offset": 704643072
+        },
+        {
+          "name": "transfer-II-payload.zip.010-023",
+          "size": 33554432,
+          "sha256": "804d630bf1e156c3e65a230ab83436f2bc46eefbba56546e01d0d404f5445231",
+          "offset": 738197504
+        },
+        {
+          "name": "transfer-II-payload.zip.010-024",
+          "size": 33554432,
+          "sha256": "b9ee1d0cfb9f7907d34aaf40dfe162a00e20402490a88a6c3ac467fa33e86e37",
+          "offset": 771751936
+        },
+        {
+          "name": "transfer-II-payload.zip.010-025",
+          "size": 33554432,
+          "sha256": "49e38a7b5fa275a9a57f0eefd4352d5508ad63b0446ecd0942f6b5d95ad10d37",
+          "offset": 805306368
+        },
+        {
+          "name": "transfer-II-payload.zip.010-026",
+          "size": 33554432,
+          "sha256": "68d7c12cc55ad4d00a448689d0cf36db144e9f43cb82e24b955a41771d3a44cf",
+          "offset": 838860800
+        },
+        {
+          "name": "transfer-II-payload.zip.010-027",
+          "size": 33554432,
+          "sha256": "d61c32314760bd4683518d121ec42aab76e7ec12816c0575bb3a6ff4b1634059",
+          "offset": 872415232
+        },
+        {
+          "name": "transfer-II-payload.zip.010-028",
+          "size": 33554432,
+          "sha256": "19dffbbd276af92ecd025fe94ea04562719b86e8fa3452f40a3af594c75a596a",
+          "offset": 905969664
+        },
+        {
+          "name": "transfer-II-payload.zip.010-029",
+          "size": 33554432,
+          "sha256": "d872c115ac8620ee97b3af87a75afd2d8c9c2352573ee021a14eda178bf47039",
+          "offset": 939524096
+        },
+        {
+          "name": "transfer-II-payload.zip.010-030",
+          "size": 33554432,
+          "sha256": "41f879342f3a1038970ecc8bb11bc38a36fab1b96bdee07b9dbc5b1d2bdc11fb",
+          "offset": 973078528
+        },
+        {
+          "name": "transfer-II-payload.zip.010-031",
+          "size": 33554432,
+          "sha256": "c62faf7ac37fd889d0c173d781baaff52d52708805102e42b27d7d9197e36d66",
+          "offset": 1006632960
+        },
+        {
+          "name": "transfer-II-payload.zip.010-032",
+          "size": 33554432,
+          "sha256": "a7e0ebbaef532f3f43cd44bb304986cb00136d99647d08f2fbe3c91c939019ed",
+          "offset": 1040187392
+        },
+        {
+          "name": "transfer-II-payload.zip.010-033",
+          "size": 33554432,
+          "sha256": "6508879f0c2ac0187064a0014c3e2b2cf2f6e796a2ccf53e028c6e33a05bd2e3",
+          "offset": 1073741824
+        },
+        {
+          "name": "transfer-II-payload.zip.010-034",
+          "size": 33554432,
+          "sha256": "f7380a09a2998aa543f683dc839a6345b77422513092d12809a3b6e0592c7495",
+          "offset": 1107296256
+        },
+        {
+          "name": "transfer-II-payload.zip.010-035",
+          "size": 33554432,
+          "sha256": "5374396d104c3e249f3e17921e9c50145bd26023ea94c14849d6fcbc1f23748e",
+          "offset": 1140850688
+        },
+        {
+          "name": "transfer-II-payload.zip.010-036",
+          "size": 33554432,
+          "sha256": "6fc9779044f74ac871f9d6cb236f1ef61b2e28b98d5d680f71f0fbc71171129f",
+          "offset": 1174405120
+        },
+        {
+          "name": "transfer-II-payload.zip.010-037",
+          "size": 33554432,
+          "sha256": "ae1a69fbd00b836d2aedce4a1d47bd0d74f09bbc661aeecbfa431756dd339094",
+          "offset": 1207959552
+        },
+        {
+          "name": "transfer-II-payload.zip.010-038",
+          "size": 33554432,
+          "sha256": "67cb8f63f6c92bc0a22c3b0b03a92b60e395b7c02a5efb77266fceb45a83c321",
+          "offset": 1241513984
+        },
+        {
+          "name": "transfer-II-payload.zip.010-039",
+          "size": 33554432,
+          "sha256": "73113be8550aaea99be78602dae1b7f9295666b91941de52611d95b8ac845a35",
+          "offset": 1275068416
+        },
+        {
+          "name": "transfer-II-payload.zip.010-040",
+          "size": 33554432,
+          "sha256": "622801b76218fa52b3656e4edef044ddd471aa41834b94f231802e71a15017e7",
+          "offset": 1308622848
+        },
+        {
+          "name": "transfer-II-payload.zip.010-041",
+          "size": 33554432,
+          "sha256": "c85ffa02ef9a3ff1e45c65b3d721d0ceadcf293e92c7bfbc59490b555c5cd1a1",
+          "offset": 1342177280
+        },
+        {
+          "name": "transfer-II-payload.zip.010-042",
+          "size": 33554432,
+          "sha256": "990da3ae44d7be3f7039a73bc2af8b52fa01054fe906acd2bd5ff4bcafe4e228",
+          "offset": 1375731712
+        },
+        {
+          "name": "transfer-II-payload.zip.010-043",
+          "size": 33554432,
+          "sha256": "5826edd7d08681ec7686abce16bfaf67aa20981be67114e3718e7939b1d0d4df",
+          "offset": 1409286144
+        },
+        {
+          "name": "transfer-II-payload.zip.010-044",
+          "size": 33554432,
+          "sha256": "0b6b85cbc0d240ccd6c52820117d9922771445cfeebc4816bd6f46a43ca135c1",
+          "offset": 1442840576
+        },
+        {
+          "name": "transfer-II-payload.zip.010-045",
+          "size": 33554432,
+          "sha256": "e0974981122cef345fe2958d647312c0a8d5bdd682ab8019c92e314dcd82aed8",
+          "offset": 1476395008
+        },
+        {
+          "name": "transfer-II-payload.zip.010-046",
+          "size": 33554432,
+          "sha256": "b7b9bfc1fbe1ee6afe7a234432e61f7a4a53fc714719a1383cd7ee89092d0cb1",
+          "offset": 1509949440
+        },
+        {
+          "name": "transfer-II-payload.zip.010-047",
+          "size": 33554432,
+          "sha256": "de6c94c15eb792435676132e8285ecc243f799cea0b9dae65b26ef5ffd66615d",
+          "offset": 1543503872
+        },
+        {
+          "name": "transfer-II-payload.zip.010-048",
+          "size": 33554432,
+          "sha256": "f4039c00ee2e37c1aeb1c591385cc27cf1e150848b907469d0c30cec6e410bc2",
+          "offset": 1577058304
+        }
+      ]
+    },
+    {
+      "name": "II-payload.zip.011",
+      "size": 385075180,
+      "sha256": "81cb9ecf1cc1de130fb3d4cff3d69c22ded4ac87ca8545e23e0e0ac54f815789",
+      "blocks": [
+        {
+          "name": "transfer-II-payload.zip.011-001",
+          "size": 33554432,
+          "sha256": "758c07dd671ad8ac35da85ea5c4cae742e9d558f7299093a4e0be6968acf04e5",
+          "offset": 0
+        },
+        {
+          "name": "transfer-II-payload.zip.011-002",
+          "size": 33554432,
+          "sha256": "e566817fd12f76081c8d2e9d7490268c9dd507cc4c0592eb3c3e61402f88723d",
+          "offset": 33554432
+        },
+        {
+          "name": "transfer-II-payload.zip.011-003",
+          "size": 33554432,
+          "sha256": "53ba4d629c7a4856a6cc958e02572957eec611abcbac3aefa187aa3c301659a2",
+          "offset": 67108864
+        },
+        {
+          "name": "transfer-II-payload.zip.011-004",
+          "size": 33554432,
+          "sha256": "54d18f8b97545b64afb3cd73a69b0ab6bf943ef77697cd32634d409c2dba954d",
+          "offset": 100663296
+        },
+        {
+          "name": "transfer-II-payload.zip.011-005",
+          "size": 33554432,
+          "sha256": "001aaf8fa3e1e7bfe7d899ae6d198d2a2f58afb9be7ad7aa6e60308ca84b79d6",
+          "offset": 134217728
+        },
+        {
+          "name": "transfer-II-payload.zip.011-006",
+          "size": 33554432,
+          "sha256": "cc596e68ae78439a6a1df9d430bad93a09400d983582c431df651a292de1078f",
+          "offset": 167772160
+        },
+        {
+          "name": "transfer-II-payload.zip.011-007",
+          "size": 33554432,
+          "sha256": "c964b0d54154bc09343c71441da4716aee1874d8b772a3d76e91b9f54616a3ac",
+          "offset": 201326592
+        },
+        {
+          "name": "transfer-II-payload.zip.011-008",
+          "size": 33554432,
+          "sha256": "8d07f533c7ccc88fcaa04bdd9d1d5bd04abbbff00c9192eed3f1ffdd83ea64e9",
+          "offset": 234881024
+        },
+        {
+          "name": "transfer-II-payload.zip.011-009",
+          "size": 33554432,
+          "sha256": "1c479068a2fe5cfcf38d60d13d4ef829942fb5351933d465df2f9aebf1e20ff9",
+          "offset": 268435456
+        },
+        {
+          "name": "transfer-II-payload.zip.011-010",
+          "size": 33554432,
+          "sha256": "c869e0eddef8ad639d7eb6b31cd6bef09d00345f3dd6915b01e5951445480657",
+          "offset": 301989888
+        },
+        {
+          "name": "transfer-II-payload.zip.011-011",
+          "size": 33554432,
+          "sha256": "1c51db4149b5347f82820c6bbd199f88ce33ca840e35b22716823ce327aa8b7f",
+          "offset": 335544320
+        },
+        {
+          "name": "transfer-II-payload.zip.011-012",
+          "size": 15976428,
+          "sha256": "b33a366236d502ca678c94136f0186dd9f915d5017d093b66028648786b42162",
+          "offset": 369098752
         }
       ]
     }

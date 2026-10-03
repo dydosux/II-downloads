@@ -1,5 +1,17 @@
 # II — переносимое приложение Windows
 
+## Видео Wan
+
+В выпуске 2026.10.03 включены ComfyUI, Wan 2.1 T2V 1.3B и все три файла весов.
+Python и ComfyUI отдельно устанавливать не нужно. В чате выберите режим видео
+и введите описание сцены. Сервисы запускаются локально; результат сохраняется
+в `data/output/videos`. После обновления страницы статус задачи восстанавливается.
+На GTX 1060 6 ГБ проверены 832 × 480: короткая проба (0,5 секунды) заняла
+около 8 минут, обычный режим (1 секунда) — около 17 минут.
+Для этого режима рекомендуются NVIDIA с 6 ГБ VRAM и 32 ГБ RAM.
+Подробности: [docs/wan.md](docs/wan.md). Лицензия весов: Apache-2.0,
+копия включена в `docs/WAN-LICENSE.txt`; лицензия ComfyUI находится в `ComfyUI/LICENSE`.
+
 ## Оценки и автоматическое обучение
 
 В фотолаборатории добавлен раздел «Материалы и фоновое обучение». Папка
@@ -68,6 +80,7 @@ Telegram-токены и настройки. Базовая сборка без 
 
 ```powershell
 .\scripts\build_portable.ps1 -OutputDir dist\II-with-models -IncludeWeights
+.\scripts\build_portable.ps1 -OutputDir dist\II-with-wan -IncludeWeights -IncludeWan
 ```
 
 `-IncludeWeights` отдельно разрешает включить `ii.pt`, `tokenizer.json`,

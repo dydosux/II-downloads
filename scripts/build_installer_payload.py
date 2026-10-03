@@ -53,7 +53,7 @@ class Parts(io.RawIOBase):
         super().close()
 
 
-def build(source, output, base_url, part_size=1536 * 1024**2):
+def build(source, output, base_url, part_size=1536 * 1024**2, version="2026.09.27"):
     if not 0 < part_size < 2 * 1024**3:
         raise ValueError("Each release asset must be smaller than 2 GiB")
     source = source.resolve(strict=True)
@@ -96,7 +96,7 @@ def build(source, output, base_url, part_size=1536 * 1024**2):
                     print(f"Packed {index}/{len(files)} files", flush=True)
     finally:
         stream.close()
-    manifest = dict(version="2026.09.27", baseUrl=base_url.rstrip("/"),
+    manifest = dict(version=version, baseUrl=base_url.rstrip("/"),
                     installedBytes=installed, fileCount=len(files), parts=stream.parts)
     (output / "manifest.json").write_text(json.dumps(manifest, indent=2), encoding="utf-8")
     print(json.dumps(dict(files=len(files), installed_bytes=installed, download_bytes=stream.tell(), parts=len(stream.parts))), flush=True)
@@ -108,5 +108,6 @@ if __name__ == "__main__":
     parser.add_argument("--source", type=Path, required=True)
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument("--base-url", required=True)
+    parser.add_argument("--version", default="2026.09.27")
     args = parser.parse_args()
-    build(args.source, args.output, args.base_url)
+    build(args.source, args.output, args.base_url, version=args.version)

@@ -19,6 +19,7 @@ def assets(repo, release):
 def main():
     manifest=json.loads(Path('transfer-manifest.json').read_text())
     repo,release=manifest['repo'],manifest['release']
+    tag=manifest.get('tag', 'v2026.09.27')
     remote=assets(repo,release)
     if sys.argv[1]=='publish':
         expected=manifest['parts']+json.loads(Path('release-extras.json').read_text())
@@ -31,7 +32,7 @@ def main():
             for block in part['blocks']:
                 if block['name'] in remote:
                     gh('api','--method','DELETE',f"repos/{repo}/releases/assets/{remote[block['name']]['id']}")
-        gh('release','edit','v2026.09.27','--repo',repo,'--draft=false','--latest')
+        gh('release','edit',tag,'--repo',repo,'--draft=false','--latest')
         print('RELEASE PUBLISHED')
         return
     part=manifest['parts'][int(sys.argv[1])-1]
@@ -60,7 +61,7 @@ def main():
             path.unlink()
     if size!=part['size'] or digest.hexdigest()!=part['sha256']:
         raise RuntimeError('Reconstructed asset mismatch')
-    gh('release','upload','v2026.09.27',str(target),'--repo',repo)
+    gh('release','upload',tag,str(target),'--repo',repo)
     print('Verified and restored',part['name'])
 
 

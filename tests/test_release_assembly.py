@@ -25,11 +25,12 @@ class AssemblyTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as folder:
             try:
                 os.chdir(folder)
-                Path('transfer-manifest.json').write_text(json.dumps(dict(repo='owner/repo', release=1, parts=[part])))
+                Path('transfer-manifest.json').write_text(json.dumps(dict(repo='owner/repo', release=1, tag='v-test', parts=[part])))
                 with patch('sys.argv',['assembly','1']), patch.object(assembly,'assets',return_value=remote), patch.object(assembly.subprocess,'run',side_effect=download), patch.object(assembly,'gh',side_effect=lambda *a: calls.append(a)):
                     assembly.main()
                 self.assertEqual(Path('payload.001').read_bytes(),data)
                 self.assertEqual(calls[0][:2],('release','upload'))
+                self.assertEqual(calls[0][2], 'v-test')
             finally:
                 os.chdir(previous)
 

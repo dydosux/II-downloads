@@ -7,13 +7,28 @@ concurrency:
   group: assemble-ii-release
   cancel-in-progress: false
 jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      parts: ${{ steps.parts.outputs.parts }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: parts
+        run: |
+          python3 - <<'PY'
+          import json, os
+          manifest = json.load(open('transfer-manifest.json'))
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as output:
+              print('parts=' + json.dumps(list(range(1, len(manifest['parts']) + 1))), file=output)
+          PY
   assemble:
+    needs: plan
     runs-on: ubuntu-latest
     timeout-minutes: 45
     strategy:
       fail-fast: false
       matrix:
-        part: [1, 2, 3, 4, 5]
+        part: ${{ fromJSON(needs.plan.outputs.parts) }}
     steps:
       - uses: actions/checkout@v4
       - name: Reconstruct and verify original asset
