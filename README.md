@@ -1,5 +1,8 @@
 # II+ для Windows
 
+Обновление с Wan 2026.10.03 проходит загрузку и проверку. Пока оно не опубликовано,
+ссылка на последний установщик ведёт на прежний выпуск 2026.09.27.
+
 [Скачать установщик II-Setup.exe](https://github.com/dydosux/II-downloads/releases/latest/download/II-Setup.exe)
 
 Готовые сборки находятся в [Releases](https://github.com/dydosux/II-downloads/releases). Ссылка выше скачивает установщик последнего опубликованного выпуска.
