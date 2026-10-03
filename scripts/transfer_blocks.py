@@ -2,6 +2,7 @@
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import argparse
 import hashlib
+import http.client
 import io
 import json
 import os
@@ -18,6 +19,16 @@ REPO = None
 RELEASE = None
 TAG = None
 WORKERS = 32
+
+
+class UploadConnection(http.client.HTTPSConnection):
+    def __init__(self, host, **kwargs):
+        super().__init__(host, blocksize=256*1024, **kwargs)
+
+
+class UploadHTTPSHandler(urllib.request.HTTPSHandler):
+    def https_open(self, request):
+        return self.do_open(UploadConnection, request, context=self._context)
 
 
 def api(args):
@@ -59,6 +70,7 @@ def upload():
             api(['api','--method','DELETE',f"repos/{REPO}/releases/assets/{old['id']}"])
     pending = [b for b in expected if existing.get(b['name'],{}).get('digest') != 'sha256:'+b['sha256']]
     token = api(['auth','token']).strip()
+    opener = urllib.request.build_opener(UploadHTTPSHandler())
     completed = sum(b['size'] for b in expected if b not in pending)
     total = sum(b['size'] for b in expected)
     lock = threading.Lock()
@@ -76,7 +88,7 @@ def upload():
                     request=urllib.request.Request(f"https://uploads.github.com/repos/{REPO}/releases/{RELEASE}/assets?name={block['name']}",
                         data=io.BytesIO(content), headers={'Authorization':'Bearer '+token,'Content-Type':'application/octet-stream',
                         'Content-Length':str(block['size']),'User-Agent':'II-Block-Publisher'},method='POST')
-                    with urllib.request.urlopen(request,timeout=120) as response: asset=json.load(response)
+                    with opener.open(request,timeout=120) as response: asset=json.load(response)
                 if asset.get('size')!=block['size'] or asset.get('digest')!='sha256:'+block['sha256']:
                     raise RuntimeError('Uploaded block checksum mismatch')
                 break
