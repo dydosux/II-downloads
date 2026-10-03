@@ -22,12 +22,15 @@ def main():
     repo,release=manifest['repo'],manifest['release']
     tag=manifest.get('tag', 'v2026.09.27')
     remote=assets(repo,release)
-    if sys.argv[1]=='publish':
+    if sys.argv[1] in {'verify', 'publish'}:
         expected=manifest['parts']+json.loads(Path('release-extras.json').read_text())
         for item in expected:
             actual=remote.get(item['name'],{})
             if actual.get('size')!=item['size'] or actual.get('digest')!='sha256:'+item['sha256'] or actual.get('state')!='uploaded':
                 raise RuntimeError('Missing or corrupt final asset: '+item['name'])
+        if sys.argv[1] == 'verify':
+            print('ALL FINAL ASSETS VERIFIED')
+            return
         # Remove staging files while still a draft, so users see only final assets.
         for part in manifest['parts']:
             for block in part['blocks']:
