@@ -10,6 +10,21 @@ from scripts import assemble_release as assembly
 
 
 class AssemblyTests(unittest.TestCase):
+    def test_verify_mode_does_not_publish_or_delete(self):
+        previous = os.getcwd()
+        part = dict(name='payload.001', size=7, sha256='abc', blocks=[])
+        remote = {'payload.001': dict(size=7, digest='sha256:abc', state='uploaded')}
+        with tempfile.TemporaryDirectory() as folder:
+            try:
+                os.chdir(folder)
+                Path('transfer-manifest.json').write_text(json.dumps(dict(repo='owner/repo', release=1, tag='v-test', parts=[part])))
+                Path('release-extras.json').write_text('[]')
+                with patch('sys.argv', ['assembly', 'verify']), patch.object(assembly, 'assets', return_value=remote), patch.object(assembly, 'gh') as gh:
+                    assembly.main()
+                    gh.assert_not_called()
+            finally:
+                os.chdir(previous)
+
     def test_reconstructed_bytes_match_original(self):
         data = b"original immutable payload"
         blocks = [data[:9], data[9:]]
