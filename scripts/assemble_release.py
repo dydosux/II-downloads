@@ -31,6 +31,9 @@ def main():
         if sys.argv[1] == 'verify':
             print('ALL FINAL ASSETS VERIFIED')
             return
+        remaining = sum(b['name'] in remote for p in manifest['parts'] for b in p['blocks'])
+        removed = 0
+        print('All final assets verified; cleaning', remaining, 'staging blocks', flush=True)
         # Remove staging files while still a draft, so users see only final assets.
         for part in manifest['parts']:
             for block in part['blocks']:
@@ -44,6 +47,9 @@ def main():
                                 raise
                             time.sleep(30*(attempt+1))
                     time.sleep(0.8)
+                    removed += 1
+                    if removed % 25 == 0:
+                        print('Removed staging blocks:', removed, '/', remaining, flush=True)
         gh('release','edit',tag,'--repo',repo,'--draft=false','--latest')
         print('RELEASE PUBLISHED')
         return
