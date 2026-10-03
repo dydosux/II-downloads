@@ -5,6 +5,7 @@ import json
 from pathlib import Path
 import subprocess
 import sys
+import time
 
 
 def gh(*args):
@@ -31,7 +32,15 @@ def main():
         for part in manifest['parts']:
             for block in part['blocks']:
                 if block['name'] in remote:
-                    gh('api','--method','DELETE',f"repos/{repo}/releases/assets/{remote[block['name']]['id']}")
+                    for attempt in range(4):
+                        try:
+                            gh('api','--method','DELETE',f"repos/{repo}/releases/assets/{remote[block['name']]['id']}")
+                            break
+                        except subprocess.CalledProcessError:
+                            if attempt == 3:
+                                raise
+                            time.sleep(30*(attempt+1))
+                    time.sleep(0.8)
         gh('release','edit',tag,'--repo',repo,'--draft=false','--latest')
         print('RELEASE PUBLISHED')
         return
