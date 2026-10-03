@@ -2,6 +2,7 @@
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import argparse
 import hashlib
+import io
 import json
 import os
 from pathlib import Path
@@ -73,7 +74,7 @@ def upload():
                     if hashlib.sha256(content).hexdigest() != block['sha256']:
                         raise RuntimeError('Local payload changed')
                     request=urllib.request.Request(f"https://uploads.github.com/repos/{REPO}/releases/{RELEASE}/assets?name={block['name']}",
-                        data=content, headers={'Authorization':'Bearer '+token,'Content-Type':'application/octet-stream',
+                        data=io.BytesIO(content), headers={'Authorization':'Bearer '+token,'Content-Type':'application/octet-stream',
                         'Content-Length':str(block['size']),'User-Agent':'II-Block-Publisher'},method='POST')
                     with urllib.request.urlopen(request,timeout=120) as response: asset=json.load(response)
                 if asset.get('size')!=block['size'] or asset.get('digest')!='sha256:'+block['sha256']:
@@ -87,7 +88,7 @@ def upload():
                     if old and old.get('digest')=='sha256:'+block['sha256']: break
                     if old: api(['api','--method','DELETE',f"repos/{REPO}/releases/assets/{old['id']}"])
                 if attempt==7: raise
-                print('Retry',block['name'],type(exc).__name__,flush=True)
+                print('Retry',block['name'],type(exc).__name__,str(getattr(exc, 'reason', exc)),flush=True)
                 time.sleep(min(20,2*(attempt+1)))
         with lock:
             completed+=block['size']
